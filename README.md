@@ -32,14 +32,6 @@ This system scrapes product data from six major Romanian grocery retailers (Fres
 - **Cost Comparison**: Instant total price calculations across all retailers  
 - **Visual Product Gallery**: High-quality image integration with detailed product information  
 
-## Technical Architecture
-
-### AI/ML Pipeline
-Raw Product Titles → Preprocessing → Fine-tuned LoRA Model → Quantity/Unit Extraction
-                                                         ↓
-Category Classification ← AI Category Mapping ← Standardized Data
-                                                         ↓
-Search Index Creation ← TF-IDF + Semantic Search ← Processed Products
 
 
 ## Core Components
