@@ -42,9 +42,10 @@ Category Classification ← AI Category Mapping ← Standardized Data
 Search Index Creation ← TF-IDF + Semantic Search ← Processed Products
 
 ### Data Flow
-API Endpoints → Scraper → AI Processing → Database → Dashboard
-     ↓              ↓           ↓            ↓         ↓
-Rate Limiting   Retry Logic   LoRA Models   Storage   User Interface
+API Endpoints ──> Scraper ──> AI Processing ──> Database ──> Dashboard
+      |             |              |             |           |
+      v             v              v             v           v
+ Rate Limiting  Retry Logic   LoRA Models    Storage   User Interface
 
 ## Core Components
 
