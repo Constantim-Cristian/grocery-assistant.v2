@@ -58,4 +58,26 @@ This system scrapes product data from six major Romanian grocery retailers (Fres
 - React-based Dashboard: Responsive and intuitive user interface  
 - Real-time Updates: Dynamic price comparisons and cart calculations  
 - Advanced Filtering: Multi-dimensional product discovery  
-- Visual Analytics: Price trend visualization and comparison charts  
+- Visual Analytics: Price trend visualization and comparison charts
+
+## Quick Start
+
+### Prerequisites
+- Linux environment (or WSL on Windows - recommended)
+- Python 3.10+
+
+### Installation & Usage
+
+1. Install Dependencies
+pip install -r all_requirements.txt
+
+2. Run Data Collection
+python Store_Scraper.py
+
+Wait for scraping and AI processing to complete
+
+3. Launch Dashboard
+
+streamlit run StreamLit_Dash.py
+
+**Note: Linux or WSL (Windows Subsystem for Linux) is strongly recommended for optimal performance and compatibility.**
