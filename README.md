@@ -1,35 +1,73 @@
-## Core Functionality & Technical Highlights
+# AI-Powered Grocery Price Comparison System
 
-### Data Acquisition Module
+An intelligent web scraping and data analysis platform that leverages advanced AI/ML techniques to compare grocery prices across major Romanian retailers. The system combines robust data acquisition, fine-tuned language models, and intelligent search capabilities to provide accurate price-per-unit comparisons.
 
-The data acquisition module is engineered for **resilient and precise data extraction** from dynamic API endpoints within the Wolt platform. It targets six prominent Romanian grocery retailers: Freshful, Profi, Penny, Auchan, Carrefour, and Kaufland.
+## Overview
 
-* **Robust API Interaction:** Employs sophisticated **retry mechanisms with exponential backoff** to effectively manage API rate limits and network transients. This ensures data integrity and reliability during collection.
-* **Advanced Data Extraction & Normalization:** Leverages **powerful regular expressions** for complex pattern matching and extraction of critical product attributes (e.g., quantities like "6x0.33L", "100g") from varied and often inconsistent product titles. Includes dedicated functions for data cleaning and standardization.
-* **Unit Standardization & Price-per-Unit Calculation:** Implements custom logic to standardize diverse measurement units (e.g., converting 'g' to 'kg', 'ml' to 'l'). This accurately calculates the crucial "price per unit of measure," enabling genuine value comparison across different product sizes and packaging.
-* **Efficient Data Archiving:** Collected data is intelligently **compressed for daily archiving**, ensuring efficient storage and providing a historical dataset for potential future analysis without consuming excessive disk space.
-* **Dynamic Category Mapping:** Features a structured approach for **rule-based product categorization**, demonstrating a systematic method for semantic data organization.
+This system scrapes product data from six major Romanian grocery retailers (Freshful, Profi, Penny, Auchan, Carrefour, and Kaufland) via Wolt's API, then applies sophisticated AI models to extract precise quantities and units from product titles, enabling true price-per-unit comparisons across different stores and package sizes.
 
-### Interactive Dashboard Module
+## Key Features
 
-The interactive dashboard module provides a **highly responsive and intuitive user interface** for exploring and optimizing grocery purchases based on the locally collected data.
+### Advanced AI Integration
+- **Fine-tuned LoRA Models**: Custom-trained lightweight adapters for precise quantity/unit extraction from complex product titles  
+- **AI-Powered Category Mapping**: Machine learning-driven system that creates unified product categories across all retailers  
+- **Intelligent Search System**: Hybrid TF-IDF and AI-powered semantic search with smart fallback mechanisms  
+- **Optimized AI Usage**: Reuses processed data and saves new results to minimize computational overhead  
 
-* **Stateful UI Management:** Utilizes advanced techniques for **persistent management of user selections, filters, and shopping cart contents** across application reruns, ensuring a seamless and intuitive user experience.
-* **Dynamic Filtering & Search:** Implements **dynamic filtering capabilities** where options for units and categories are generated based on the currently available data, enhancing usability and relevance. Features a robust search bar for immediate product discovery.
-* **Unique Item Tracking:** Employs a system for **assigning unique identifiers** to each product. This enables precise tracking and manipulation of items within the dynamic shopping cart, preventing ambiguity and ensuring accurate quantity adjustments and price calculations.
-* **Real-time Cost Comparison:** Provides **instantaneous updates to shopping cart totals** across all included stores, allowing users to visually compare the overall cost of their selected items and identify the most economical purchasing option.
-* **Scalable Data Handling:** Integrates powerful data manipulation libraries for **efficient in-memory data processing, filtering, and aggregation**, crucial for responsive performance even with growing datasets.
-* **Polished Presentation:** Incorporates techniques for **embedding graphical elements directly** into the user interface, ensuring a crisp, high-quality visual presentation.
+### Robust Data Acquisition
+- **Resilient API Scraping**: Sophisticated retry mechanisms with exponential backoff for handling rate limits and network issues  
+- **Advanced Pattern Recognition**: Complex regex patterns for extracting quantities like `6x0.33L`, `100g/bucată`, `vrac/kg`  
+- **Unit Standardization**: Intelligent conversion system normalizing diverse Romanian measurement units  
+- **Dynamic Pagination Handling**: Comprehensive coverage of all product listings across multiple store categories  
 
-## Potential for Advanced AI/ML Integration
+### Smart Data Processing
+- **Real-time Quality Assessment**: Flags potentially incorrect extractions using price-per-unit thresholds  
+- **Duplicate Detection**: Image-based deduplication ensuring data accuracy  
+- **Historical Data Management**: Efficient daily archiving with compression for trend analysis  
+- **Error Recovery**: Infinite retry system ensuring complete data collection  
 
-This project is architected as a **strong foundation for future enhancements** involving Artificial Intelligence and Machine Learning, showcasing foresight in system design:
+### Interactive Dashboard
+- **Stateful UI Management**: Persistent user selections and shopping cart across sessions  
+- **Dynamic Filtering**: Real-time filter options based on available data  
+- **Cost Comparison**: Instant total price calculations across all retailers  
+- **Visual Product Gallery**: High-quality image integration with detailed product information  
 
-* **AI-Driven Category Classification:** Explore **Machine Learning models** for more sophisticated and automated product categorization, moving beyond rule-based methods to enhance search and filter accuracy.
-* **Enhanced Natural Language Processing (NLP) for Product Data:** Implement **NLP techniques** to improve the understanding and normalization of complex product descriptions, including handling variations, synonyms, and implicit information.
-* **Generative AI for Personalized Recommendations:** Develop **Large Language Model (LLM) integrations** to create a more natural language-based shopping assistant, offering personalized recommendations or fulfilling complex queries (e.g., "Find ingredients for a pasta dish").
-* **MLOps Best Practices:** Demonstrate the application of **MLOps principles** for managing the lifecycle of AI models within a self-hosted environment, ensuring reproducibility, monitoring, and continuous improvement of the data pipeline and predictive capabilities.
+## Technical Architecture
 
-## Demo
+### AI/ML Pipeline
+Raw Product Titles → Preprocessing → Fine-tuned LoRA Model → Quantity/Unit Extraction
+↓
+Category Classification ← AI Category Mapping ← Standardized Data
+↓
+Search Index Creation ← TF-IDF + Semantic Search ← Processed Products
 
-https://appuctstoreappmainpy-qxaaofjlmggjkcejf3xyxx.streamlit.app/
+### Data Flow
+API Endpoints → Scraper → AI Processing → Database → Dashboard
+↓ ↓ ↓ ↓ ↓
+Rate Limiting Retry Logic LoRA Models Storage User Interface
+
+## Core Components
+
+### 1. Data Acquisition Engine
+- Multi-store API Integration: Unified scraping across 6 major retailers  
+- Intelligent Error Handling: Exponential backoff and infinite retry mechanisms  
+- Dynamic Category Discovery: Automatic detection of store category structures  
+- Pagination Management: Complete product catalog coverage  
+
+### 2. AI Processing Pipeline
+- LoRA Fine-tuning: Lightweight model adaptation for Romanian product titles  
+- Quantity Extraction: Advanced pattern matching with AI fallback  
+- Category Unification: ML-driven mapping between store-specific categories  
+- Quality Validation: AI-assisted detection of extraction errors  
+
+### 3. Search & Discovery System
+- Hybrid Search: TF-IDF primary search with AI semantic fallback  
+- Performance Optimization: Cached results and incremental processing  
+- Multi-language Support: Romanian product title understanding  
+- Fuzzy Matching: Handles variations in product naming  
+
+### 4. Interactive Frontend
+- React-based Dashboard: Responsive and intuitive user interface  
+- Real-time Updates: Dynamic price comparisons and cart calculations  
+- Advanced Filtering: Multi-dimensional product discovery  
+- Visual Analytics: Price trend visualization and comparison charts  
