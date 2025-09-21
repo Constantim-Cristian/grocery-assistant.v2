@@ -77,7 +77,6 @@ python Store_Scraper.py
 Wait for scraping and AI processing to complete
 
 3. Launch Dashboard
-
 streamlit run StreamLit_Dash.py
 
 **Note: Linux or WSL (Windows Subsystem for Linux) is strongly recommended for optimal performance and compatibility.**
