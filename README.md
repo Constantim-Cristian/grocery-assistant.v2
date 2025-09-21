@@ -36,15 +36,15 @@ This system scrapes product data from six major Romanian grocery retailers (Fres
 
 ### AI/ML Pipeline
 Raw Product Titles → Preprocessing → Fine-tuned LoRA Model → Quantity/Unit Extraction
-↓
+                                                         ↓
 Category Classification ← AI Category Mapping ← Standardized Data
-↓
+                                                         ↓
 Search Index Creation ← TF-IDF + Semantic Search ← Processed Products
 
 ### Data Flow
 API Endpoints → Scraper → AI Processing → Database → Dashboard
-↓ ↓ ↓ ↓ ↓
-Rate Limiting Retry Logic LoRA Models Storage User Interface
+     ↓              ↓           ↓            ↓          ↓
+Rate Limiting   Retry Logic   LoRA Models   Storage   User Interface
 
 ## Core Components
 
