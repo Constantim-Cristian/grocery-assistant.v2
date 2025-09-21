@@ -78,7 +78,7 @@ def initialize_search_system():
             script_dir = Path(__file__).parent
             today = datetime.now()
             date_str = today.strftime("%d-%m-%Y")
-            products_file = rf"../Scraped_Data/products/products_21-09-2025.json"
+            products_file = rf"Scraped_Data/products/products_{date_str}.json"
 
             # Load products JSON
             with open(products_file, 'r', encoding='utf-8') as f:
@@ -86,7 +86,7 @@ def initialize_search_system():
 
             # Load synonyms dictionary file (exec to populate synonyms dict)
             synonyms = {}
-            synonyms_file = rf'../Suport_Streamlit/dictonary.txt'
+            synonyms_file = rf'Suport_Streamlit/dictonary.txt'
             with open(synonyms_file, 'r', encoding='utf-8') as f:
                 content = f.read()
             local_vars = {'synonyms': synonyms}
@@ -328,7 +328,7 @@ def local_css(file_name):
         pass
 
 
-local_css(rf"../Suport_Streamlit/STCSS.css")
+local_css(rf"Suport_Streamlit/STCSS.css")
 
 # Build or load search data/models
 search_data = initialize_search_system()
@@ -340,7 +340,7 @@ date_str = today.strftime("%d-%m-%Y")
 def load_product_data():
     """Load today's scraped products JSON into a DataFrame and create UUIDs."""
     script_dir = Path(__file__).parent
-    filename = rf"../Scraped_Data/products/products_21-09-2025.json"
+    filename = rf"Scraped_Data/products/products_{date_str}.json"
 
     df = pd.read_json(filename)
     df = df.sort_values('MetrPrice', ascending=True)
@@ -376,7 +376,7 @@ ORIGINAL_STORE_ORDER = list(df['Store'].unique())
 
 script_dir = Path(__file__).parent
 parent_dir = script_dir.parent
-icon_dir = r'../Suport_Streamlit/icon'
+icon_dir = r'Suport_Streamlit/icon'
 
 STORE_LOGOS = {
     'auchan-hypermarket-titan': rf"{icon_dir}/Auchan_2018.svg",
