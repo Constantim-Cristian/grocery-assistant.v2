@@ -1,0 +1,4139 @@
+{
+  "category_matches": [
+    {
+      "CategorySlug": "absorbante-si-tampoane",
+      "MapMainSlug": "igiena-si-sanatate",
+      "best_match": "Personal Care & Cosmetics"
+    },
+    {
+      "CategorySlug": "absorbante-si-tampoane",
+      "MapMainSlug": "ingrijire-personala",
+      "best_match": "Personal Care & Cosmetics"
+    },
+    {
+      "CategorySlug": "accesorii",
+      "MapMainSlug": "parkside-by-kaufland",
+      "best_match": "Fashion & Apparel"
+    },
+    {
+      "CategorySlug": "accesorii",
+      "MapMainSlug": "tutun",
+      "best_match": "Tobacco & Vaping"
+    },
+    {
+      "CategorySlug": "accesorii-animale-de-companie",
+      "MapMainSlug": "pet-shop",
+      "best_match": "Pet Care"
+    },
+    {
+      "CategorySlug": "accesorii-bagaje",
+      "MapMainSlug": "produse-non-alimentare",
+      "best_match": "Luggage & Travel Accessories"
+    },
+    {
+      "CategorySlug": "accesorii-bauturi",
+      "MapMainSlug": "bauturi-alcoolice",
+      "best_match": "Alcoholic Beverages"
+    },
+    {
+      "CategorySlug": "accesorii-birou",
+      "MapMainSlug": "carti-si-papetarie",
+      "best_match": "Stationery & Office Supplies"
+    },
+    {
+      "CategorySlug": "accesorii-machiaj",
+      "MapMainSlug": "cosmetice-si-ingrijire-dama",
+      "best_match": "Personal Care & Cosmetics"
+    },
+    {
+      "CategorySlug": "accesorii-par",
+      "MapMainSlug": "cosmetice-si-ingrijire-dama",
+      "best_match": "Personal Care & Cosmetics"
+    },
+    {
+      "CategorySlug": "accesorii-pentru-gratar",
+      "MapMainSlug": "bere-si-gratar",
+      "best_match": "Garden & Outdoor"
+    },
+    {
+      "CategorySlug": "accesorii-pentru-hranire",
+      "MapMainSlug": "mommybaby-land",
+      "best_match": "Baby & Child Care"
+    },
+    {
+      "CategorySlug": "accesorii-si-dispozitive-medicale",
+      "MapMainSlug": "igiena-si-sanatate",
+      "best_match": "Health & Wellness"
+    },
+    {
+      "CategorySlug": "accesorii-tutun",
+      "MapMainSlug": "tutun",
+      "best_match": "Tobacco & Vaping"
+    },
+    {
+      "CategorySlug": "acumulatoare-si-incarcatoare",
+      "MapMainSlug": "parkside-by-kaufland",
+      "best_match": "Electronics"
+    },
+    {
+      "CategorySlug": "adaos-alimentar",
+      "MapMainSlug": "bacanie",
+      "best_match": "Pantry & Prepared Foods"
+    },
+    {
+      "CategorySlug": "adezivi",
+      "MapMainSlug": "casa-si-bricolaj",
+      "best_match": "Home & DIY"
+    },
+    {
+      "CategorySlug": "alb-romania",
+      "MapMainSlug": "vinuri",
+      "best_match": "Alcoholic Beverages"
+    },
+    {
+      "CategorySlug": "alimente-de-baza",
+      "MapMainSlug": "bacanie",
+      "best_match": "Pantry & Prepared Foods"
+    },
+    {
+      "CategorySlug": "alte-accesorii-bebe",
+      "MapMainSlug": "produse-pentru-bebelusi",
+      "best_match": "Baby & Child Care"
+    },
+    {
+      "CategorySlug": "alte-articole-curatenie",
+      "MapMainSlug": "curatenie-si-intretinere-casa",
+      "best_match": "Household & Cleaning"
+    },
+    {
+      "CategorySlug": "alte-articole-curatenie",
+      "MapMainSlug": "ingrijire-personala",
+      "best_match": "Personal Care & Cosmetics"
+    },
+    {
+      "CategorySlug": "alte-dulciuri",
+      "MapMainSlug": "dulciuri",
+      "best_match": "Sweets"
+    },
+    {
+      "CategorySlug": "alte-pasari",
+      "MapMainSlug": "macelarie-si-peste",
+      "best_match": "Meat"
+    },
+    {
+      "CategorySlug": "alte-produse",
+      "MapMainSlug": "produse-pentru-bebelusi",
+      "best_match": "Baby & Child Care"
+    },
+    {
+      "CategorySlug": "alte-produse-de-patiserie",
+      "MapMainSlug": "bacanie",
+      "best_match": "Bakery & Pastries"
+    },
+    {
+      "CategorySlug": "alte-produse-de-patiserie",
+      "MapMainSlug": "zacusca",
+      "best_match": "Bakery & Pastries"
+    },
+    {
+      "CategorySlug": "alte-produse-igiena-dentara",
+      "MapMainSlug": "ingrijire-personala",
+      "best_match": "Personal Care & Cosmetics"
+    },
+    {
+      "CategorySlug": "alte-produse-igiena-orala",
+      "MapMainSlug": "ingrijire-personala",
+      "best_match": "Personal Care & Cosmetics"
+    },
+    {
+      "CategorySlug": "alte-snacks-uri",
+      "MapMainSlug": "snack-uri-sarate",
+      "best_match": "Snacks"
+    },
+    {
+      "CategorySlug": "alte-specialitati",
+      "MapMainSlug": "mezeluri",
+      "best_match": "Meat"
+    },
+    {
+      "CategorySlug": "alte-tipuri-de-paste",
+      "MapMainSlug": "bacanie",
+      "best_match": "Bakery & Pastries"
+    },
+    {
+      "CategorySlug": "alte-tipuri-de-paste",
+      "MapMainSlug": "zacusca",
+      "best_match": "Pantry & Prepared Foods"
+    },
+    {
+      "CategorySlug": "ambalaj-mic",
+      "MapMainSlug": "bauturi-nealcoolice",
+      "best_match": "Non-Alcoholic Beverages"
+    },
+    {
+      "CategorySlug": "amenajeri-interioare",
+      "MapMainSlug": "casa-si-bricolaj",
+      "best_match": "Home & DIY"
+    },
+    {
+      "CategorySlug": "anticalcar",
+      "MapMainSlug": "curatenie-si-intretinere-casa",
+      "best_match": "Household & Cleaning"
+    },
+    {
+      "CategorySlug": "apa",
+      "MapMainSlug": "3ro",
+      "best_match": "Non-Alcoholic Beverages"
+    },
+    {
+      "CategorySlug": "apa",
+      "MapMainSlug": "bauturi-non-alcoolice",
+      "best_match": "Non-Alcoholic Beverages"
+    },
+    {
+      "CategorySlug": "apa",
+      "MapMainSlug": "bere-si-gratar",
+      "best_match": "Non-Alcoholic Beverages"
+    },
+    {
+      "CategorySlug": "apa-aromatizata",
+      "MapMainSlug": "apa-bauturi-non-alcoolice",
+      "best_match": "Non-Alcoholic Beverages"
+    },
+    {
+      "CategorySlug": "apa-aromatizata",
+      "MapMainSlug": "bauturi-non-alcoolice",
+      "best_match": "Non-Alcoholic Beverages"
+    },
+    {
+      "CategorySlug": "apa-carbogazoasa",
+      "MapMainSlug": "apa-bauturi-non-alcoolice",
+      "best_match": "Non-Alcoholic Beverages"
+    },
+    {
+      "CategorySlug": "apa-carbogazoasa",
+      "MapMainSlug": "bauturi-non-alcoolice",
+      "best_match": "Non-Alcoholic Beverages"
+    },
+    {
+      "CategorySlug": "apa-carbogazoase",
+      "MapMainSlug": "bauturi-nealcoolice",
+      "best_match": "Non-Alcoholic Beverages"
+    },
+    {
+      "CategorySlug": "apa-cu-arome",
+      "MapMainSlug": "bauturi-nealcoolice",
+      "best_match": "Non-Alcoholic Beverages"
+    },
+    {
+      "CategorySlug": "apa-cu-vitamine",
+      "MapMainSlug": "bauturi-nealcoolice",
+      "best_match": "Non-Alcoholic Beverages"
+    },
+    {
+      "CategorySlug": "apa-de-gura",
+      "MapMainSlug": "igiena-si-sanatate",
+      "best_match": "Health & Wellness"
+    },
+    {
+      "CategorySlug": "apa-de-gura",
+      "MapMainSlug": "ingrijire-personala",
+      "best_match": "Personal Care & Cosmetics"
+    },
+    {
+      "CategorySlug": "apa-minerala",
+      "MapMainSlug": "bauturi-la-rece",
+      "best_match": "Non-Alcoholic Beverages"
+    },
+    {
+      "CategorySlug": "apa-plata",
+      "MapMainSlug": "apa-bauturi-non-alcoolice",
+      "best_match": "Non-Alcoholic Beverages"
+    },
+    {
+      "CategorySlug": "apa-plata",
+      "MapMainSlug": "bauturi-nealcoolice",
+      "best_match": "Non-Alcoholic Beverages"
+    },
+    {
+      "CategorySlug": "apa-plata",
+      "MapMainSlug": "bauturi-non-alcoolice",
+      "best_match": "Non-Alcoholic Beverages"
+    },
+    {
+      "CategorySlug": "apa-tonica",
+      "MapMainSlug": "apa-bauturi-non-alcoolice",
+      "best_match": "Non-Alcoholic Beverages"
+    },
+    {
+      "CategorySlug": "aparate-ingrjire-personala",
+      "MapMainSlug": "igiena-si-sanatate",
+      "best_match": "Personal Care & Cosmetics"
+    },
+    {
+      "CategorySlug": "aperitiv-si-vermut",
+      "MapMainSlug": "bauturi-alcoolice",
+      "best_match": "Alcoholic Beverages"
+    },
+    {
+      "CategorySlug": "aperitive",
+      "MapMainSlug": "bauturi-alcoolice",
+      "best_match": "Alcoholic Beverages"
+    },
+    {
+      "CategorySlug": "aranjarea-mesei",
+      "MapMainSlug": "articole-pentru-bucatarie",
+      "best_match": "Kitchen & Dining"
+    },
+    {
+      "CategorySlug": "ardei",
+      "MapMainSlug": "fructe-si-legume",
+      "best_match": "Vegetables"
+    },
+    {
+      "CategorySlug": "articole-camping",
+      "MapMainSlug": "bere-si-gratar",
+      "best_match": "Garden & Outdoor"
+    },
+    {
+      "CategorySlug": "articole-pentru-coacere",
+      "MapMainSlug": "articole-pentru-bucatarie",
+      "best_match": "Kitchen & Dining"
+    },
+    {
+      "CategorySlug": "articole-pentru-gatit",
+      "MapMainSlug": "produse-non-alimentare",
+      "best_match": "Kitchen & Dining"
+    },
+    {
+      "CategorySlug": "articole-pentru-gravide",
+      "MapMainSlug": "igiena-si-sanatate",
+      "best_match": "Health & Wellness"
+    },
+    {
+      "CategorySlug": "articole-petrecere",
+      "MapMainSlug": "casa-si-bricolaj",
+      "best_match": "Party Supplies"
+    },
+    {
+      "CategorySlug": "articole-unica-folosinta",
+      "MapMainSlug": "bere-si-gratar",
+      "best_match": "Kitchen & Dining"
+    },
+    {
+      "CategorySlug": "asternut-si-accesorii",
+      "MapMainSlug": "pet-shop",
+      "best_match": "Garden & Outdoor"
+    },
+    {
+      "CategorySlug": "auto",
+      "MapMainSlug": "casa-gradina-si-auto",
+      "best_match": "Automotive"
+    },
+    {
+      "CategorySlug": "auto",
+      "MapMainSlug": "produse-non-alimentare",
+      "best_match": "Automotive"
+    },
+    {
+      "CategorySlug": "bacanie",
+      "MapMainSlug": "marca-proprie",
+      "best_match": "Sweets"
+    },
+    {
+      "CategorySlug": "bacanie",
+      "MapMainSlug": "produse-bio",
+      "best_match": "Sweets"
+    },
+    {
+      "CategorySlug": "bacanie-bio",
+      "MapMainSlug": "produse-bio",
+      "best_match": "Sweets"
+    },
+    {
+      "CategorySlug": "bagaj",
+      "MapMainSlug": "bagaj",
+      "best_match": "Luggage & Travel Accessories"
+    },
+    {
+      "CategorySlug": "baie-si-dus",
+      "MapMainSlug": "cosmetice-si-ingrijire-dama",
+      "best_match": "Personal Care & Cosmetics"
+    },
+    {
+      "CategorySlug": "baie-si-igiena",
+      "MapMainSlug": "univers-bebe",
+      "best_match": "Baby & Child Care"
+    },
+    {
+      "CategorySlug": "balsam-de-rufe",
+      "MapMainSlug": "curatenie-si-intretinere",
+      "best_match": "Household & Cleaning"
+    },
+    {
+      "CategorySlug": "balsam-de-rufe",
+      "MapMainSlug": "curatenie-si-intretinere-casa",
+      "best_match": "Household & Cleaning"
+    },
+    {
+      "CategorySlug": "balsam-de-rufe",
+      "MapMainSlug": "ingrijire-personala",
+      "best_match": "Personal Care & Cosmetics"
+    },
+    {
+      "CategorySlug": "balsam-masti-si-tratamente-pentru-par",
+      "MapMainSlug": "ingrijire-personala",
+      "best_match": "Personal Care & Cosmetics"
+    },
+    {
+      "CategorySlug": "banane-si-fructe-exotice",
+      "MapMainSlug": "fructe-si-legume",
+      "best_match": "Fruits"
+    },
+    {
+      "CategorySlug": "barbierit",
+      "MapMainSlug": "ingrijire-personala",
+      "best_match": "Personal Care & Cosmetics"
+    },
+    {
+      "CategorySlug": "baterii",
+      "MapMainSlug": "casa-si-bricolaj",
+      "best_match": "Electronics"
+    },
+    {
+      "CategorySlug": "batoane",
+      "MapMainSlug": "dulciuri",
+      "best_match": "Sweets"
+    },
+    {
+      "CategorySlug": "batoane",
+      "MapMainSlug": "dulciuri-si-snacks",
+      "best_match": "Snacks"
+    },
+    {
+      "CategorySlug": "batoane-de-cereale",
+      "MapMainSlug": "bacanie",
+      "best_match": "Snacks"
+    },
+    {
+      "CategorySlug": "batoane-de-cereale",
+      "MapMainSlug": "zacusca",
+      "best_match": "Snacks"
+    },
+    {
+      "CategorySlug": "baton",
+      "MapMainSlug": "inghetata",
+      "best_match": "Frozen Foods"
+    },
+    {
+      "CategorySlug": "baton",
+      "MapMainSlug": "produse-congelate",
+      "best_match": "Confectionery"
+    },
+    {
+      "CategorySlug": "bauturi",
+      "MapMainSlug": "univers-bebe",
+      "best_match": "Baby & Child Care"
+    },
+    {
+      "CategorySlug": "bauturi-alcoolice",
+      "MapMainSlug": "produse-bio",
+      "best_match": "Alcoholic Beverages"
+    },
+    {
+      "CategorySlug": "bauturi-bio",
+      "MapMainSlug": "produse-bio",
+      "best_match": "Non-Alcoholic Beverages"
+    },
+    {
+      "CategorySlug": "bauturi-cafea",
+      "MapMainSlug": "lactate-branzeturi-si-oua",
+      "best_match": "Non-Alcoholic Beverages"
+    },
+    {
+      "CategorySlug": "bauturi-carbogazoase",
+      "MapMainSlug": "apa-bauturi-non-alcoolice",
+      "best_match": "Non-Alcoholic Beverages"
+    },
+    {
+      "CategorySlug": "bauturi-din-fructe-si-plante",
+      "MapMainSlug": "bauturi-alcoolice",
+      "best_match": "Alcoholic Beverages"
+    },
+    {
+      "CategorySlug": "bauturi-din-lapte-si-ice-coffee",
+      "MapMainSlug": "lactate-branzeturi-si-oua",
+      "best_match": "Dairy"
+    },
+    {
+      "CategorySlug": "bauturi-energizante",
+      "MapMainSlug": "apa-bauturi-non-alcoolice",
+      "best_match": "Non-Alcoholic Beverages"
+    },
+    {
+      "CategorySlug": "bauturi-energizante",
+      "MapMainSlug": "bauturi-alcoolice-si-energizante",
+      "best_match": "Alcoholic Beverages"
+    },
+    {
+      "CategorySlug": "bauturi-la-rece",
+      "MapMainSlug": "bauturi-la-rece",
+      "best_match": "Non-Alcoholic Beverages"
+    },
+    {
+      "CategorySlug": "bauturi-nealcoolice",
+      "MapMainSlug": "bere-si-gratar",
+      "best_match": "Non-Alcoholic Beverages"
+    },
+    {
+      "CategorySlug": "bauturi-nealcoolice",
+      "MapMainSlug": "produse-bio",
+      "best_match": "Non-Alcoholic Beverages"
+    },
+    {
+      "CategorySlug": "bauturi-necarbogazoase",
+      "MapMainSlug": "apa-bauturi-non-alcoolice",
+      "best_match": "Non-Alcoholic Beverages"
+    },
+    {
+      "CategorySlug": "bauturi-non-alcoolice",
+      "MapMainSlug": "marca-proprie",
+      "best_match": "Non-Alcoholic Beverages"
+    },
+    {
+      "CategorySlug": "bauturi-racoritoare",
+      "MapMainSlug": "bauturi-non-alcoolice",
+      "best_match": "Non-Alcoholic Beverages"
+    },
+    {
+      "CategorySlug": "bauturi-spirtoase",
+      "MapMainSlug": "bauturi-alcoolice",
+      "best_match": "Alcoholic Beverages"
+    },
+    {
+      "CategorySlug": "bauturi-spirtoase",
+      "MapMainSlug": "bauturi-alcoolice-si-energizante",
+      "best_match": "Alcoholic Beverages"
+    },
+    {
+      "CategorySlug": "bauturi-vegetale",
+      "MapMainSlug": "alternative-vegetale",
+      "best_match": "Non-Alcoholic Beverages"
+    },
+    {
+      "CategorySlug": "bauturi-vegetale",
+      "MapMainSlug": "diete-speciale",
+      "best_match": "Dietary & Special Needs"
+    },
+    {
+      "CategorySlug": "baza-de-mancare",
+      "MapMainSlug": "bacanie",
+      "best_match": "Pantry & Prepared Foods"
+    },
+    {
+      "CategorySlug": "baza-de-mancare-si-condimente",
+      "MapMainSlug": "bacanie",
+      "best_match": "Pantry & Prepared Foods"
+    },
+    {
+      "CategorySlug": "baza-mancare",
+      "MapMainSlug": "bacanie",
+      "best_match": "Pantry & Prepared Foods"
+    },
+    {
+      "CategorySlug": "bebe",
+      "MapMainSlug": "jucarii",
+      "best_match": "Baby & Child Care"
+    },
+    {
+      "CategorySlug": "bere",
+      "MapMainSlug": "3ro",
+      "best_match": "Alcoholic Beverages"
+    },
+    {
+      "CategorySlug": "bere",
+      "MapMainSlug": "bauturi-alcoolice",
+      "best_match": "Alcoholic Beverages"
+    },
+    {
+      "CategorySlug": "bere",
+      "MapMainSlug": "bere-si-gratar",
+      "best_match": "Restaurant & Ready-to-Eat"
+    },
+    {
+      "CategorySlug": "bere-artizanala-si-speciala",
+      "MapMainSlug": "bauturi-alcoolice",
+      "best_match": "Alcoholic Beverages"
+    },
+    {
+      "CategorySlug": "bere-cu-arome",
+      "MapMainSlug": "bauturi-alcoolice",
+      "best_match": "Alcoholic Beverages"
+    },
+    {
+      "CategorySlug": "bere-cu-arome",
+      "MapMainSlug": "bauturi-la-rece",
+      "best_match": "Kitchen & Dining"
+    },
+    {
+      "CategorySlug": "bere-doza",
+      "MapMainSlug": "bauturi-alcoolice",
+      "best_match": "Alcoholic Beverages"
+    },
+    {
+      "CategorySlug": "bere-fara-alcool",
+      "MapMainSlug": "bauturi-alcoolice",
+      "best_match": "Non-Alcoholic Beverages"
+    },
+    {
+      "CategorySlug": "bere-fara-alcool",
+      "MapMainSlug": "bauturi-la-rece",
+      "best_match": "Non-Alcoholic Beverages"
+    },
+    {
+      "CategorySlug": "bere-pet",
+      "MapMainSlug": "bauturi-alcoolice",
+      "best_match": "Alcoholic Beverages"
+    },
+    {
+      "CategorySlug": "bere-si-cidru",
+      "MapMainSlug": "bauturi-alcoolice",
+      "best_match": "Alcoholic Beverages"
+    },
+    {
+      "CategorySlug": "bere-sticla",
+      "MapMainSlug": "bauturi-alcoolice",
+      "best_match": "Alcoholic Beverages"
+    },
+    {
+      "CategorySlug": "beri-cu-aroma",
+      "MapMainSlug": "bauturi-alcoolice",
+      "best_match": "Alcoholic Beverages"
+    },
+    {
+      "CategorySlug": "biberoane-tetine-si-suzete",
+      "MapMainSlug": "produse-pentru-bebelusi",
+      "best_match": "Baby & Child Care"
+    },
+    {
+      "CategorySlug": "bio",
+      "MapMainSlug": "lactate-branzeturi-si-oua",
+      "best_match": "Dairy"
+    },
+    {
+      "CategorySlug": "bio-si-vegana",
+      "MapMainSlug": "inghetata",
+      "best_match": "Frozen Foods"
+    },
+    {
+      "CategorySlug": "biscuiti",
+      "MapMainSlug": "dulciuri",
+      "best_match": "Sweets"
+    },
+    {
+      "CategorySlug": "biscuiti",
+      "MapMainSlug": "univers-bebe",
+      "best_match": "Baby & Child Care"
+    },
+    {
+      "CategorySlug": "biscuiti-cu-crema",
+      "MapMainSlug": "dulciuri-si-snacks",
+      "best_match": "Snacks"
+    },
+    {
+      "CategorySlug": "biscuiti-fursecuri-prajituri",
+      "MapMainSlug": "3ro",
+      "best_match": "Bakery & Pastries"
+    },
+    {
+      "CategorySlug": "biscuiti-sarati",
+      "MapMainSlug": "dulciuri-si-snacks",
+      "best_match": "Snacks"
+    },
+    {
+      "CategorySlug": "biscuiti-si-napolitane",
+      "MapMainSlug": "dulciuri",
+      "best_match": "Sweets"
+    },
+    {
+      "CategorySlug": "biscuiti-simpli-si-cookies",
+      "MapMainSlug": "dulciuri-si-snacks",
+      "best_match": "Snacks"
+    },
+    {
+      "CategorySlug": "boluri",
+      "MapMainSlug": "articole-pentru-bucatarie",
+      "best_match": "Kitchen & Dining"
+    },
+    {
+      "CategorySlug": "borcanase",
+      "MapMainSlug": "univers-bebe",
+      "best_match": "Baby & Child Care"
+    },
+    {
+      "CategorySlug": "bors",
+      "MapMainSlug": "bacanie",
+      "best_match": "Pantry & Prepared Foods"
+    },
+    {
+      "CategorySlug": "brandy",
+      "MapMainSlug": "bauturi-alcoolice",
+      "best_match": "Alcoholic Beverages"
+    },
+    {
+      "CategorySlug": "brandy-si-coniac",
+      "MapMainSlug": "bauturi-alcoolice",
+      "best_match": "Alcoholic Beverages"
+    },
+    {
+      "CategorySlug": "branza-pentru-gatit",
+      "MapMainSlug": "lactate-branzeturi-si-oua",
+      "best_match": "Dairy"
+    },
+    {
+      "CategorySlug": "branza-proaspata",
+      "MapMainSlug": "lactate-branzeturi-si-oua",
+      "best_match": "Dairy"
+    },
+    {
+      "CategorySlug": "branza-proaspata",
+      "MapMainSlug": "lapte-vegetal",
+      "best_match": "Dietary & Special Needs"
+    },
+    {
+      "CategorySlug": "branza-topita",
+      "MapMainSlug": "lactate-branzeturi-si-oua",
+      "best_match": "Dairy"
+    },
+    {
+      "CategorySlug": "branza-topita",
+      "MapMainSlug": "lapte-vegetal",
+      "best_match": "Dairy"
+    },
+    {
+      "CategorySlug": "branzeturi",
+      "MapMainSlug": "bere-si-gratar",
+      "best_match": "Dairy"
+    },
+    {
+      "CategorySlug": "branzeturi",
+      "MapMainSlug": "lactate-si-oua",
+      "best_match": "Dairy"
+    },
+    {
+      "CategorySlug": "branzeturi-bio",
+      "MapMainSlug": "produse-bio",
+      "best_match": "Dairy"
+    },
+    {
+      "CategorySlug": "branzeturi-si-cascaval",
+      "MapMainSlug": "lactate-branzeturi-si-oua",
+      "best_match": "Dairy"
+    },
+    {
+      "CategorySlug": "brichete",
+      "MapMainSlug": "tutun",
+      "best_match": "Tobacco & Vaping"
+    },
+    {
+      "CategorySlug": "bricolaj",
+      "MapMainSlug": "produse-non-alimentare",
+      "best_match": "Home & DIY"
+    },
+    {
+      "CategorySlug": "brutarie",
+      "MapMainSlug": "3ro",
+      "best_match": "Bakery & Pastries"
+    },
+    {
+      "CategorySlug": "brutarie",
+      "MapMainSlug": "brutarie-si-patiserie",
+      "best_match": "Bakery & Pastries"
+    },
+    {
+      "CategorySlug": "brutarie-si-patiserie",
+      "MapMainSlug": "produse-bio",
+      "best_match": "Bakery & Pastries"
+    },
+    {
+      "CategorySlug": "bulion-si-pasta-de-tomate",
+      "MapMainSlug": "bacanie",
+      "best_match": "Pantry & Prepared Foods"
+    },
+    {
+      "CategorySlug": "bulion-si-pasta-de-tomate",
+      "MapMainSlug": "zacusca",
+      "best_match": "Pantry & Prepared Foods"
+    },
+    {
+      "CategorySlug": "bulion-si-paste-de-tomate",
+      "MapMainSlug": "bacanie",
+      "best_match": "Pantry & Prepared Foods"
+    },
+    {
+      "CategorySlug": "bureti-si-lavete",
+      "MapMainSlug": "curatenie-si-intretinere-casa",
+      "best_match": "Household & Cleaning"
+    },
+    {
+      "CategorySlug": "bureti-si-lavete",
+      "MapMainSlug": "ingrijire-personala",
+      "best_match": "Household & Cleaning"
+    },
+    {
+      "CategorySlug": "bureti-vase-si-lavete",
+      "MapMainSlug": "curatenie-si-intretinere",
+      "best_match": "Household & Cleaning"
+    },
+    {
+      "CategorySlug": "buze",
+      "MapMainSlug": "cosmetice-si-ingrijire-dama",
+      "best_match": "Personal Care & Cosmetics"
+    },
+    {
+      "CategorySlug": "cabluri-si-prize",
+      "MapMainSlug": "casa-si-bricolaj",
+      "best_match": "Home & DIY"
+    },
+    {
+      "CategorySlug": "cafea",
+      "MapMainSlug": "bacanie",
+      "best_match": "Non-Alcoholic Beverages"
+    },
+    {
+      "CategorySlug": "cafea-boabe",
+      "MapMainSlug": "bacanie",
+      "best_match": "Non-Alcoholic Beverages"
+    },
+    {
+      "CategorySlug": "cafea-capsule",
+      "MapMainSlug": "bacanie",
+      "best_match": "Non-Alcoholic Beverages"
+    },
+    {
+      "CategorySlug": "cafea-instant-si-mixuri",
+      "MapMainSlug": "bacanie",
+      "best_match": "Non-Alcoholic Beverages"
+    },
+    {
+      "CategorySlug": "cafea-macinata",
+      "MapMainSlug": "bacanie",
+      "best_match": "Non-Alcoholic Beverages"
+    },
+    {
+      "CategorySlug": "cafea-si-ceai",
+      "MapMainSlug": "mic-dejun",
+      "best_match": "Non-Alcoholic Beverages"
+    },
+    {
+      "CategorySlug": "cafea-solubila",
+      "MapMainSlug": "bacanie",
+      "best_match": "Non-Alcoholic Beverages"
+    },
+    {
+      "CategorySlug": "caiete-si-coperti",
+      "MapMainSlug": "carti-si-papetarie",
+      "best_match": "Stationery & Office Supplies"
+    },
+    {
+      "CategorySlug": "cake-bar",
+      "MapMainSlug": "dulciuri-si-snacks",
+      "best_match": "Bakery & Pastries"
+    },
+    {
+      "CategorySlug": "cani-filtrante-si-termos",
+      "MapMainSlug": "articole-pentru-bucatarie",
+      "best_match": "Kitchen & Dining"
+    },
+    {
+      "CategorySlug": "carbuni",
+      "MapMainSlug": "bere-si-gratar",
+      "best_match": "Kitchen & Dining"
+    },
+    {
+      "CategorySlug": "carnati-si-crenvursti",
+      "MapMainSlug": "mezeluri-si-specialitati",
+      "best_match": "Meat"
+    },
+    {
+      "CategorySlug": "carnati-si-crenvusti",
+      "MapMainSlug": "mezeluri-si-specialitati",
+      "best_match": "Meat"
+    },
+    {
+      "CategorySlug": "carne",
+      "MapMainSlug": "produse-congelate",
+      "best_match": "Frozen Foods"
+    },
+    {
+      "CategorySlug": "carne-si-peste",
+      "MapMainSlug": "produse-congelate",
+      "best_match": "Frozen Foods"
+    },
+    {
+      "CategorySlug": "carne-tocata",
+      "MapMainSlug": "macelarie-si-peste",
+      "best_match": "Meat"
+    },
+    {
+      "CategorySlug": "carte-adolescenti",
+      "MapMainSlug": "carti-si-papetarie",
+      "best_match": "Books & Magazines"
+    },
+    {
+      "CategorySlug": "carti-adulti",
+      "MapMainSlug": "carti-si-papetarie",
+      "best_match": "Books & Magazines"
+    },
+    {
+      "CategorySlug": "carti-de-colorat",
+      "MapMainSlug": "carti-si-papetarie",
+      "best_match": "Books & Magazines"
+    },
+    {
+      "CategorySlug": "carti-scolare-si-limbi-straine",
+      "MapMainSlug": "carti-si-papetarie",
+      "best_match": "Books & Magazines"
+    },
+    {
+      "CategorySlug": "cartofi",
+      "MapMainSlug": "fructe-si-legume",
+      "best_match": "Vegetables"
+    },
+    {
+      "CategorySlug": "cascaval",
+      "MapMainSlug": "lactate-branzeturi-si-oua",
+      "best_match": "Dairy"
+    },
+    {
+      "CategorySlug": "cascaval",
+      "MapMainSlug": "lapte-vegetal",
+      "best_match": "Dairy"
+    },
+    {
+      "CategorySlug": "caserola",
+      "MapMainSlug": "inghetata",
+      "best_match": "Frozen Foods"
+    },
+    {
+      "CategorySlug": "caserola",
+      "MapMainSlug": "produse-congelate",
+      "best_match": "Frozen Foods"
+    },
+    {
+      "CategorySlug": "ceai-aromat",
+      "MapMainSlug": "bacanie",
+      "best_match": "Non-Alcoholic Beverages"
+    },
+    {
+      "CategorySlug": "ceai-de-plante",
+      "MapMainSlug": "bacanie",
+      "best_match": "Non-Alcoholic Beverages"
+    },
+    {
+      "CategorySlug": "ceai-verde-si-negru",
+      "MapMainSlug": "bacanie",
+      "best_match": "Non-Alcoholic Beverages"
+    },
+    {
+      "CategorySlug": "ceaiuri-pentru-alaptare-si-relaxare",
+      "MapMainSlug": "mommybaby-land",
+      "best_match": "Baby & Child Care"
+    },
+    {
+      "CategorySlug": "ceapa-si-usturoi",
+      "MapMainSlug": "fructe-si-legume",
+      "best_match": "Vegetables"
+    },
+    {
+      "CategorySlug": "cereale",
+      "MapMainSlug": "bacanie",
+      "best_match": "Pantry & Prepared Foods"
+    },
+    {
+      "CategorySlug": "cereale",
+      "MapMainSlug": "univers-bebe",
+      "best_match": "Baby & Child Care"
+    },
+    {
+      "CategorySlug": "cereale",
+      "MapMainSlug": "zacusca",
+      "best_match": "Pantry & Prepared Foods"
+    },
+    {
+      "CategorySlug": "cereale-bebe",
+      "MapMainSlug": "produse-pentru-bebelusi",
+      "best_match": "Baby & Child Care"
+    },
+    {
+      "CategorySlug": "cereale-piureuri-si-gustari",
+      "MapMainSlug": "mommybaby-land",
+      "best_match": "Baby & Child Care"
+    },
+    {
+      "CategorySlug": "cereale-si-batoane",
+      "MapMainSlug": "mic-dejun",
+      "best_match": "Pantry & Prepared Foods"
+    },
+    {
+      "CategorySlug": "chefir",
+      "MapMainSlug": "lactate-branzeturi-si-oua",
+      "best_match": "Dairy"
+    },
+    {
+      "CategorySlug": "chefir",
+      "MapMainSlug": "lapte-vegetal",
+      "best_match": "Non-Alcoholic Beverages"
+    },
+    {
+      "CategorySlug": "chipsuri",
+      "MapMainSlug": "3ro",
+      "best_match": "Snacks"
+    },
+    {
+      "CategorySlug": "chipsuri",
+      "MapMainSlug": "dulciuri-si-snacks",
+      "best_match": "Snacks"
+    },
+    {
+      "CategorySlug": "chipsuri",
+      "MapMainSlug": "snack-uri-sarate",
+      "best_match": "Snacks"
+    },
+    {
+      "CategorySlug": "chipsuri",
+      "MapMainSlug": "snacks",
+      "best_match": "Snacks"
+    },
+    {
+      "CategorySlug": "cidru",
+      "MapMainSlug": "bauturi-alcoolice",
+      "best_match": "Alcoholic Beverages"
+    },
+    {
+      "CategorySlug": "ciocolata",
+      "MapMainSlug": "dulciuri",
+      "best_match": "Sweets"
+    },
+    {
+      "CategorySlug": "citrice",
+      "MapMainSlug": "fructe-si-legume",
+      "best_match": "Fruits"
+    },
+    {
+      "CategorySlug": "cocktail",
+      "MapMainSlug": "bauturi-la-rece",
+      "best_match": "Alcoholic Beverages"
+    },
+    {
+      "CategorySlug": "cocktail-uri",
+      "MapMainSlug": "bauturi-alcoolice",
+      "best_match": "Alcoholic Beverages"
+    },
+    {
+      "CategorySlug": "cofetarie",
+      "MapMainSlug": "brutarie-si-patiserie",
+      "best_match": "Confectionery"
+    },
+    {
+      "CategorySlug": "cofetarie-si-patiserie",
+      "MapMainSlug": "brutarie-si-patiserie",
+      "best_match": "Bakery & Pastries"
+    },
+    {
+      "CategorySlug": "coffee-corner",
+      "MapMainSlug": "coffee-corner",
+      "best_match": "Non-Alcoholic Beverages"
+    },
+    {
+      "CategorySlug": "cola",
+      "MapMainSlug": "bauturi-nealcoolice",
+      "best_match": "Non-Alcoholic Beverages"
+    },
+    {
+      "CategorySlug": "compot-fructe",
+      "MapMainSlug": "bacanie",
+      "best_match": "Pantry & Prepared Foods"
+    },
+    {
+      "CategorySlug": "condimente",
+      "MapMainSlug": "bacanie",
+      "best_match": "Pantry & Prepared Foods"
+    },
+    {
+      "CategorySlug": "condimente-si-plante-aromatice",
+      "MapMainSlug": "bere-si-gratar",
+      "best_match": "Pantry & Prepared Foods"
+    },
+    {
+      "CategorySlug": "conserve",
+      "MapMainSlug": "3ro",
+      "best_match": "Pantry & Prepared Foods"
+    },
+    {
+      "CategorySlug": "conserve",
+      "MapMainSlug": "bacanie",
+      "best_match": "Pantry & Prepared Foods"
+    },
+    {
+      "CategorySlug": "conserve-carne",
+      "MapMainSlug": "bacanie",
+      "best_match": "Pantry & Prepared Foods"
+    },
+    {
+      "CategorySlug": "conserve-carne",
+      "MapMainSlug": "zacusca",
+      "best_match": "Pantry & Prepared Foods"
+    },
+    {
+      "CategorySlug": "conserve-fructe",
+      "MapMainSlug": "bacanie",
+      "best_match": "Pantry & Prepared Foods"
+    },
+    {
+      "CategorySlug": "conserve-legume",
+      "MapMainSlug": "bacanie",
+      "best_match": "Pantry & Prepared Foods"
+    },
+    {
+      "CategorySlug": "conserve-mancare-gatita",
+      "MapMainSlug": "bacanie",
+      "best_match": "Pantry & Prepared Foods"
+    },
+    {
+      "CategorySlug": "conserve-muraturi",
+      "MapMainSlug": "bacanie",
+      "best_match": "Pantry & Prepared Foods"
+    },
+    {
+      "CategorySlug": "conserve-peste",
+      "MapMainSlug": "bacanie",
+      "best_match": "Seafood"
+    },
+    {
+      "CategorySlug": "conserve-peste-si-fructe-de-mare",
+      "MapMainSlug": "bacanie",
+      "best_match": "Seafood"
+    },
+    {
+      "CategorySlug": "conserve-si-muraturi",
+      "MapMainSlug": "bacanie",
+      "best_match": "Pantry & Prepared Foods"
+    },
+    {
+      "CategorySlug": "constructii",
+      "MapMainSlug": "casa-si-bricolaj",
+      "best_match": "Home & DIY"
+    },
+    {
+      "CategorySlug": "consumabile",
+      "MapMainSlug": "parkside-by-kaufland",
+      "best_match": "Pantry & Prepared Foods"
+    },
+    {
+      "CategorySlug": "corectoare",
+      "MapMainSlug": "carti-si-papetarie",
+      "best_match": "Stationery & Office Supplies"
+    },
+    {
+      "CategorySlug": "cosmetice",
+      "MapMainSlug": "produse-bio",
+      "best_match": "Personal Care & Cosmetics"
+    },
+    {
+      "CategorySlug": "covrigei-si-mix-uri",
+      "MapMainSlug": "snack-uri-sarate",
+      "best_match": "Snacks"
+    },
+    {
+      "CategorySlug": "covrigei-si-sticksuri",
+      "MapMainSlug": "snack-uri-sarate",
+      "best_match": "Snacks"
+    },
+    {
+      "CategorySlug": "covrigeipufuleti-si-mixuri",
+      "MapMainSlug": "3ro",
+      "best_match": "Snacks"
+    },
+    {
+      "CategorySlug": "creatie-si-arte",
+      "MapMainSlug": "carti-si-papetarie",
+      "best_match": "Arts & Crafts"
+    },
+    {
+      "CategorySlug": "creioane",
+      "MapMainSlug": "carti-si-papetarie",
+      "best_match": "Stationery & Office Supplies"
+    },
+    {
+      "CategorySlug": "crema-de-branza",
+      "MapMainSlug": "lactate-branzeturi-si-oua",
+      "best_match": "Dairy"
+    },
+    {
+      "CategorySlug": "crema-de-branza",
+      "MapMainSlug": "lapte-vegetal",
+      "best_match": "Dairy"
+    },
+    {
+      "CategorySlug": "crema-pentru-ten",
+      "MapMainSlug": "ingrijire-personala",
+      "best_match": "Personal Care & Cosmetics"
+    },
+    {
+      "CategorySlug": "creme-budinci-si-semipreparate",
+      "MapMainSlug": "bacanie",
+      "best_match": "Pantry & Prepared Foods"
+    },
+    {
+      "CategorySlug": "creme-budinci-si-semipreparate",
+      "MapMainSlug": "zacusca",
+      "best_match": "Pantry & Prepared Foods"
+    },
+    {
+      "CategorySlug": "creme-tartinabile-si-miere",
+      "MapMainSlug": "bacanie",
+      "best_match": "Pantry & Prepared Foods"
+    },
+    {
+      "CategorySlug": "creme-tartinabile-si-miere",
+      "MapMainSlug": "mic-dejun",
+      "best_match": "Pantry & Prepared Foods"
+    },
+    {
+      "CategorySlug": "creme-tartinabile-si-miere",
+      "MapMainSlug": "zacusca",
+      "best_match": "Pantry & Prepared Foods"
+    },
+    {
+      "CategorySlug": "cremwursti-si-carnati",
+      "MapMainSlug": "mezeluri",
+      "best_match": "Meat"
+    },
+    {
+      "CategorySlug": "croissant",
+      "MapMainSlug": "dulciuri",
+      "best_match": "Bakery & Pastries"
+    },
+    {
+      "CategorySlug": "croissante",
+      "MapMainSlug": "dulciuri-si-snacks",
+      "best_match": "Bakery & Pastries"
+    },
+    {
+      "CategorySlug": "curatare-si-demachiere",
+      "MapMainSlug": "ingrijire-personala",
+      "best_match": "Personal Care & Cosmetics"
+    },
+    {
+      "CategorySlug": "curatare-ten",
+      "MapMainSlug": "cosmetice-si-ingrijire-dama",
+      "best_match": "Personal Care & Cosmetics"
+    },
+    {
+      "CategorySlug": "curatenia-casei",
+      "MapMainSlug": "curatenie-si-intretinere-casa",
+      "best_match": "Household & Cleaning"
+    },
+    {
+      "CategorySlug": "curatenie-mobila",
+      "MapMainSlug": "curatenie-si-intretinere",
+      "best_match": "Household & Cleaning"
+    },
+    {
+      "CategorySlug": "curatenie-si-dezinfectie-wc",
+      "MapMainSlug": "curatenie-si-intretinere",
+      "best_match": "Household & Cleaning"
+    },
+    {
+      "CategorySlug": "curatenie-si-intretinere-casa",
+      "MapMainSlug": "marca-proprie",
+      "best_match": "Household & Cleaning"
+    },
+    {
+      "CategorySlug": "curcan",
+      "MapMainSlug": "macelarie-si-peste",
+      "best_match": "Meat"
+    },
+    {
+      "CategorySlug": "cutite",
+      "MapMainSlug": "articole-pentru-bucatarie",
+      "best_match": "Kitchen & Dining"
+    },
+    {
+      "CategorySlug": "de-la-producatori-locali",
+      "MapMainSlug": "brutarie-patiserie-cofetarie",
+      "best_match": "Bakery & Pastries"
+    },
+    {
+      "CategorySlug": "de-la-producatori-locali",
+      "MapMainSlug": "lactate-branzeturi-si-oua",
+      "best_match": "Dairy"
+    },
+    {
+      "CategorySlug": "deodorante",
+      "MapMainSlug": "cosmetice-barbati",
+      "best_match": "Personal Care & Cosmetics"
+    },
+    {
+      "CategorySlug": "deodorante",
+      "MapMainSlug": "cosmetice-si-ingrijire-dama",
+      "best_match": "Personal Care & Cosmetics"
+    },
+    {
+      "CategorySlug": "deodorante-si-antiperspirante",
+      "MapMainSlug": "ingrijire-personala",
+      "best_match": "Personal Care & Cosmetics"
+    },
+    {
+      "CategorySlug": "desen",
+      "MapMainSlug": "carti-si-papetarie",
+      "best_match": "Arts & Crafts"
+    },
+    {
+      "CategorySlug": "desert-rece",
+      "MapMainSlug": "lactate-branzeturi-si-oua",
+      "best_match": "Dairy"
+    },
+    {
+      "CategorySlug": "desert-rece",
+      "MapMainSlug": "lactate-si-oua",
+      "best_match": "Dairy"
+    },
+    {
+      "CategorySlug": "desert-rece",
+      "MapMainSlug": "lapte-vegetal",
+      "best_match": "Dairy"
+    },
+    {
+      "CategorySlug": "deserturi",
+      "MapMainSlug": "lactate-branzeturi-si-oua",
+      "best_match": "Dairy"
+    },
+    {
+      "CategorySlug": "deserturi",
+      "MapMainSlug": "univers-bebe",
+      "best_match": "Baby & Child Care"
+    },
+    {
+      "CategorySlug": "detergent-automat",
+      "MapMainSlug": "curatenie-si-intretinere",
+      "best_match": "Household & Cleaning"
+    },
+    {
+      "CategorySlug": "detergent-automat-vase",
+      "MapMainSlug": "curatenie-si-intretinere",
+      "best_match": "Household & Cleaning"
+    },
+    {
+      "CategorySlug": "detergent-capsule",
+      "MapMainSlug": "curatenie-si-intretinere-casa",
+      "best_match": "Household & Cleaning"
+    },
+    {
+      "CategorySlug": "detergent-lichid",
+      "MapMainSlug": "curatenie-si-intretinere-casa",
+      "best_match": "Household & Cleaning"
+    },
+    {
+      "CategorySlug": "detergent-lichid",
+      "MapMainSlug": "ingrijire-personala",
+      "best_match": "Personal Care & Cosmetics"
+    },
+    {
+      "CategorySlug": "detergent-manual",
+      "MapMainSlug": "curatenie-si-intretinere",
+      "best_match": "Household & Cleaning"
+    },
+    {
+      "CategorySlug": "detergent-manual-vase",
+      "MapMainSlug": "curatenie-si-intretinere",
+      "best_match": "Household & Cleaning"
+    },
+    {
+      "CategorySlug": "detergent-pudra",
+      "MapMainSlug": "curatenie-si-intretinere-casa",
+      "best_match": "Household & Cleaning"
+    },
+    {
+      "CategorySlug": "detergent-si-balsam-rufe",
+      "MapMainSlug": "casa-gradina-si-auto",
+      "best_match": "Household & Cleaning"
+    },
+    {
+      "CategorySlug": "detergent-vase",
+      "MapMainSlug": "curatenie-si-intretinere-casa",
+      "best_match": "Household & Cleaning"
+    },
+    {
+      "CategorySlug": "detergent-vase",
+      "MapMainSlug": "ingrijire-personala",
+      "best_match": "Personal Care & Cosmetics"
+    },
+    {
+      "CategorySlug": "detergenti-universali",
+      "MapMainSlug": "curatenie-si-intretinere",
+      "best_match": "Household & Cleaning"
+    },
+    {
+      "CategorySlug": "dezinfectant-suprafete",
+      "MapMainSlug": "curatenie-si-intretinere",
+      "best_match": "Household & Cleaning"
+    },
+    {
+      "CategorySlug": "dieta-sportiva",
+      "MapMainSlug": "diete-speciale",
+      "best_match": "Dietary & Special Needs"
+    },
+    {
+      "CategorySlug": "diete-speciale",
+      "MapMainSlug": "bacanie",
+      "best_match": "Dietary & Special Needs"
+    },
+    {
+      "CategorySlug": "divertisment",
+      "MapMainSlug": "casa-gradina-si-auto",
+      "best_match": "Miscellaneous"
+    },
+    {
+      "CategorySlug": "drajeuri",
+      "MapMainSlug": "dulciuri-si-snacks",
+      "best_match": "Confectionery"
+    },
+    {
+      "CategorySlug": "drinks",
+      "MapMainSlug": "drinkssnacks",
+      "best_match": "Non-Alcoholic Beverages"
+    },
+    {
+      "CategorySlug": "dropsuri-guma-si-jeleuri",
+      "MapMainSlug": "dulciuri",
+      "best_match": "Sweets"
+    },
+    {
+      "CategorySlug": "dropsuri-si-acadele",
+      "MapMainSlug": "dulciuri-si-snacks",
+      "best_match": "Snacks"
+    },
+    {
+      "CategorySlug": "dropsuri-si-jeleuri",
+      "MapMainSlug": "dulciuri",
+      "best_match": "Sweets"
+    },
+    {
+      "CategorySlug": "duceata-gem-si-miere",
+      "MapMainSlug": "bacanie",
+      "best_match": "Confectionery"
+    },
+    {
+      "CategorySlug": "dulceata-si-gem",
+      "MapMainSlug": "bacanie",
+      "best_match": "Confectionery"
+    },
+    {
+      "CategorySlug": "dulceata-si-gem",
+      "MapMainSlug": "zacusca",
+      "best_match": "Pantry & Prepared Foods"
+    },
+    {
+      "CategorySlug": "dulciuri",
+      "MapMainSlug": "marca-proprie",
+      "best_match": "Sweets"
+    },
+    {
+      "CategorySlug": "dulciuri-de-sezon",
+      "MapMainSlug": "dulciuri",
+      "best_match": "Sweets"
+    },
+    {
+      "CategorySlug": "dulciuri-si-snacks-bio",
+      "MapMainSlug": "produse-bio",
+      "best_match": "Sweets"
+    },
+    {
+      "CategorySlug": "dulciuri-turcesti",
+      "MapMainSlug": "dulciuri-si-snacks",
+      "best_match": "Sweets"
+    },
+    {
+      "CategorySlug": "echipamente-interior-auto",
+      "MapMainSlug": "auto",
+      "best_match": "Automotive"
+    },
+    {
+      "CategorySlug": "electrice",
+      "MapMainSlug": "casa-gradina-si-auto",
+      "best_match": "Electronics"
+    },
+    {
+      "CategorySlug": "electronica-uz-casnic",
+      "MapMainSlug": "casa-si-bricolaj",
+      "best_match": "Electronics"
+    },
+    {
+      "CategorySlug": "electronice-si-accesorii",
+      "MapMainSlug": "produse-non-alimentare",
+      "best_match": "Electronics"
+    },
+    {
+      "CategorySlug": "energizante",
+      "MapMainSlug": "3ro",
+      "best_match": "Non-Alcoholic Beverages"
+    },
+    {
+      "CategorySlug": "energizante",
+      "MapMainSlug": "bauturi-nealcoolice",
+      "best_match": "Non-Alcoholic Beverages"
+    },
+    {
+      "CategorySlug": "energizante",
+      "MapMainSlug": "bauturi-non-alcoolice",
+      "best_match": "Non-Alcoholic Beverages"
+    },
+    {
+      "CategorySlug": "energizante-sportivi",
+      "MapMainSlug": "bacanie",
+      "best_match": "Non-Alcoholic Beverages"
+    },
+    {
+      "CategorySlug": "epilare",
+      "MapMainSlug": "ingrijire-personala",
+      "best_match": "Personal Care & Cosmetics"
+    },
+    {
+      "CategorySlug": "epilare-si-barbierit",
+      "MapMainSlug": "ingrijire-personala",
+      "best_match": "Personal Care & Cosmetics"
+    },
+    {
+      "CategorySlug": "europa-exc-franta",
+      "MapMainSlug": "vinuri",
+      "best_match": "Alcoholic Beverages"
+    },
+    {
+      "CategorySlug": "faina",
+      "MapMainSlug": "bacanie",
+      "best_match": "Bakery & Pastries"
+    },
+    {
+      "CategorySlug": "faina-si-malai",
+      "MapMainSlug": "bacanie",
+      "best_match": "Bakery & Pastries"
+    },
+    {
+      "CategorySlug": "fainamalai-si-gris",
+      "MapMainSlug": "bacanie",
+      "best_match": "Bakery & Pastries"
+    },
+    {
+      "CategorySlug": "fara-gluten",
+      "MapMainSlug": "diete-speciale",
+      "best_match": "Dietary & Special Needs"
+    },
+    {
+      "CategorySlug": "fara-lactoza",
+      "MapMainSlug": "diete-speciale",
+      "best_match": "Dietary & Special Needs"
+    },
+    {
+      "CategorySlug": "fara-zahar",
+      "MapMainSlug": "diete-speciale",
+      "best_match": "Dietary & Special Needs"
+    },
+    {
+      "CategorySlug": "fashion",
+      "MapMainSlug": "produse-non-alimentare",
+      "best_match": "Fashion & Apparel"
+    },
+    {
+      "CategorySlug": "fidea-si-taitei",
+      "MapMainSlug": "bacanie",
+      "best_match": "Bakery & Pastries"
+    },
+    {
+      "CategorySlug": "fidea-si-taitei",
+      "MapMainSlug": "zacusca",
+      "best_match": "Pantry & Prepared Foods"
+    },
+    {
+      "CategorySlug": "figurine",
+      "MapMainSlug": "jucarii",
+      "best_match": "Baby & Child Care"
+    },
+    {
+      "CategorySlug": "figurine-de-ciocolata",
+      "MapMainSlug": "torturi-si-prajituri",
+      "best_match": "Sweets"
+    },
+    {
+      "CategorySlug": "folii-pungi-si-alte-articole-de-menaj",
+      "MapMainSlug": "curatenie-si-intretinere-casa",
+      "best_match": "Household & Cleaning"
+    },
+    {
+      "CategorySlug": "folii-pungi-si-alte-articole-de-menaj",
+      "MapMainSlug": "ingrijire-personala",
+      "best_match": "Household & Cleaning"
+    },
+    {
+      "CategorySlug": "folii-si-pungi-alimentare",
+      "MapMainSlug": "curatenie-si-intretinere",
+      "best_match": "Kitchen & Dining"
+    },
+    {
+      "CategorySlug": "formula-lapte",
+      "MapMainSlug": "produse-pentru-bebelusi",
+      "best_match": "Baby & Child Care"
+    },
+    {
+      "CategorySlug": "formule-de-lapte",
+      "MapMainSlug": "univers-bebe",
+      "best_match": "Baby & Child Care"
+    },
+    {
+      "CategorySlug": "formule-lapte",
+      "MapMainSlug": "produse-pentru-bebelusi",
+      "best_match": "Baby & Child Care"
+    },
+    {
+      "CategorySlug": "formule-si-lapte-praf",
+      "MapMainSlug": "mommybaby-land",
+      "best_match": "Baby & Child Care"
+    },
+    {
+      "CategorySlug": "franta",
+      "MapMainSlug": "vinuri",
+      "best_match": "Alcoholic Beverages"
+    },
+    {
+      "CategorySlug": "frisca",
+      "MapMainSlug": "lactate-branzeturi-si-oua",
+      "best_match": "Dairy"
+    },
+    {
+      "CategorySlug": "frisca",
+      "MapMainSlug": "lapte-vegetal",
+      "best_match": "Non-Alcoholic Beverages"
+    },
+    {
+      "CategorySlug": "fructe",
+      "MapMainSlug": "fructe-si-legume",
+      "best_match": "Fruits"
+    },
+    {
+      "CategorySlug": "fructe",
+      "MapMainSlug": "legume-si-fructe",
+      "best_match": "Fruits"
+    },
+    {
+      "CategorySlug": "fructe",
+      "MapMainSlug": "produse-congelate",
+      "best_match": "Frozen Foods"
+    },
+    {
+      "CategorySlug": "fructe-bio",
+      "MapMainSlug": "produse-bio",
+      "best_match": "Fruits"
+    },
+    {
+      "CategorySlug": "fructe-confiate",
+      "MapMainSlug": "fructe-si-legume",
+      "best_match": "Confectionery"
+    },
+    {
+      "CategorySlug": "fructe-confiate",
+      "MapMainSlug": "legume-si-fructe",
+      "best_match": "Fruits"
+    },
+    {
+      "CategorySlug": "fructe-congelate",
+      "MapMainSlug": "produse-congelate",
+      "best_match": "Frozen Foods"
+    },
+    {
+      "CategorySlug": "fructe-de-mare",
+      "MapMainSlug": "lactate-branzeturi-si-oua",
+      "best_match": "Seafood"
+    },
+    {
+      "CategorySlug": "fructe-de-mare",
+      "MapMainSlug": "macelarie-si-peste",
+      "best_match": "Seafood"
+    },
+    {
+      "CategorySlug": "fructe-de-mare",
+      "MapMainSlug": "produse-congelate",
+      "best_match": "Seafood"
+    },
+    {
+      "CategorySlug": "fructe-de-mare-si-crustacee",
+      "MapMainSlug": "macelarie-si-peste",
+      "best_match": "Seafood"
+    },
+    {
+      "CategorySlug": "fructe-de-padure",
+      "MapMainSlug": "fructe-si-legume",
+      "best_match": "Fruits"
+    },
+    {
+      "CategorySlug": "fructe-de-sezon",
+      "MapMainSlug": "fructe-si-legume",
+      "best_match": "Fruits"
+    },
+    {
+      "CategorySlug": "fructe-galbene",
+      "MapMainSlug": "bauturi-nealcoolice",
+      "best_match": "Fruits"
+    },
+    {
+      "CategorySlug": "fructe-proaspete",
+      "MapMainSlug": "legume-si-fructe",
+      "best_match": "Fruits"
+    },
+    {
+      "CategorySlug": "fructe-rosii",
+      "MapMainSlug": "bauturi-nealcoolice",
+      "best_match": "Non-Alcoholic Beverages"
+    },
+    {
+      "CategorySlug": "fructe-si-legume",
+      "MapMainSlug": "produse-bio",
+      "best_match": "Fruits"
+    },
+    {
+      "CategorySlug": "fructe-si-legume-bio",
+      "MapMainSlug": "produse-bio",
+      "best_match": "Fruits"
+    },
+    {
+      "CategorySlug": "fructe-si-legume-congelate",
+      "MapMainSlug": "produse-congelate",
+      "best_match": "Frozen Foods"
+    },
+    {
+      "CategorySlug": "fructe-uscate",
+      "MapMainSlug": "dulciuri-si-snacks",
+      "best_match": "Snacks"
+    },
+    {
+      "CategorySlug": "fructe-uscate",
+      "MapMainSlug": "fructe-si-legume",
+      "best_match": "Fruits"
+    },
+    {
+      "CategorySlug": "fructe-uscate-si-mix-uri",
+      "MapMainSlug": "snack-uri-sarate",
+      "best_match": "Snacks"
+    },
+    {
+      "CategorySlug": "fursecuri",
+      "MapMainSlug": "dulciuri-si-snacks",
+      "best_match": "Sweets"
+    },
+    {
+      "CategorySlug": "fusili-si-penne",
+      "MapMainSlug": "bacanie",
+      "best_match": "Pantry & Prepared Foods"
+    },
+    {
+      "CategorySlug": "fusili-si-penne",
+      "MapMainSlug": "zacusca",
+      "best_match": "Pantry & Prepared Foods"
+    },
+    {
+      "CategorySlug": "fusilli-si-penne",
+      "MapMainSlug": "bacanie",
+      "best_match": "Pantry & Prepared Foods"
+    },
+    {
+      "CategorySlug": "gel-de-dus",
+      "MapMainSlug": "ingrijire-personala",
+      "best_match": "Personal Care & Cosmetics"
+    },
+    {
+      "CategorySlug": "gem-miere-si-creme-tartinabile",
+      "MapMainSlug": "bacanie",
+      "best_match": "Sweets"
+    },
+    {
+      "CategorySlug": "gem-si-dulceata",
+      "MapMainSlug": "mic-dejun",
+      "best_match": "Sweets"
+    },
+    {
+      "CategorySlug": "gheata",
+      "MapMainSlug": "produse-congelate",
+      "best_match": "Frozen Foods"
+    },
+    {
+      "CategorySlug": "gin",
+      "MapMainSlug": "bauturi-alcoolice",
+      "best_match": "Alcoholic Beverages"
+    },
+    {
+      "CategorySlug": "gin-si-tequila",
+      "MapMainSlug": "bauturi-alcoolice",
+      "best_match": "Alcoholic Beverages"
+    },
+    {
+      "CategorySlug": "gradina",
+      "MapMainSlug": "produse-non-alimentare",
+      "best_match": "Garden & Outdoor"
+    },
+    {
+      "CategorySlug": "grapefruit-si-alte-citrice",
+      "MapMainSlug": "bauturi-nealcoolice",
+      "best_match": "Fruits"
+    },
+    {
+      "CategorySlug": "gratar",
+      "MapMainSlug": "produse-non-alimentare",
+      "best_match": "Kitchen & Dining"
+    },
+    {
+      "CategorySlug": "gratar-si-gradina",
+      "MapMainSlug": "produse-non-alimentare",
+      "best_match": "Garden & Outdoor"
+    },
+    {
+      "CategorySlug": "gratare",
+      "MapMainSlug": "bere-si-gratar",
+      "best_match": "Kitchen & Dining"
+    },
+    {
+      "CategorySlug": "gratare-si-oale-presiune",
+      "MapMainSlug": "articole-pentru-bucatarie",
+      "best_match": "Kitchen & Dining"
+    },
+    {
+      "CategorySlug": "grecesc-si-natural",
+      "MapMainSlug": "lactate-branzeturi-si-oua",
+      "best_match": "Dairy"
+    },
+    {
+      "CategorySlug": "grill-chill",
+      "MapMainSlug": "grill-chill",
+      "best_match": "Alcoholic Beverages"
+    },
+    {
+      "CategorySlug": "gris-si-pesmet",
+      "MapMainSlug": "bacanie",
+      "best_match": "Household & Cleaning"
+    },
+    {
+      "CategorySlug": "guma-de-mestecat",
+      "MapMainSlug": "dulciuri-si-snacks",
+      "best_match": "Snacks"
+    },
+    {
+      "CategorySlug": "gustari-mic-dejun",
+      "MapMainSlug": "mic-dejun",
+      "best_match": "Pantry & Prepared Foods"
+    },
+    {
+      "CategorySlug": "gustari-sanatoase",
+      "MapMainSlug": "mommybaby-land",
+      "best_match": "Baby & Child Care"
+    },
+    {
+      "CategorySlug": "hartie-igienica",
+      "MapMainSlug": "curatenie-si-intretinere-casa",
+      "best_match": "Household & Cleaning"
+    },
+    {
+      "CategorySlug": "hartie-igienica",
+      "MapMainSlug": "ingrijire-personala",
+      "best_match": "Personal Care & Cosmetics"
+    },
+    {
+      "CategorySlug": "hartie-igienica-si-prosoape",
+      "MapMainSlug": "curatenie-si-intretinere-casa",
+      "best_match": "Household & Cleaning"
+    },
+    {
+      "CategorySlug": "hartie-igienica-si-servetele",
+      "MapMainSlug": "casa-gradina-si-auto",
+      "best_match": "Household & Cleaning"
+    },
+    {
+      "CategorySlug": "hartie-igienica-si-servetele",
+      "MapMainSlug": "curatenie-si-intretinere",
+      "best_match": "Household & Cleaning"
+    },
+    {
+      "CategorySlug": "heets",
+      "MapMainSlug": "tutun",
+      "best_match": "Tobacco & Vaping"
+    },
+    {
+      "CategorySlug": "hidratare",
+      "MapMainSlug": "mommybaby-land",
+      "best_match": "Non-Alcoholic Beverages"
+    },
+    {
+      "CategorySlug": "hrana-animale-de-companie",
+      "MapMainSlug": "pet-shop",
+      "best_match": "Pet Care"
+    },
+    {
+      "CategorySlug": "hrana-bebelusi",
+      "MapMainSlug": "produse-pentru-bebelusi",
+      "best_match": "Baby & Child Care"
+    },
+    {
+      "CategorySlug": "hrana-caini",
+      "MapMainSlug": "pet-shop",
+      "best_match": "Pet Care"
+    },
+    {
+      "CategorySlug": "hrana-pasari-si-rozatoare",
+      "MapMainSlug": "pet-shop",
+      "best_match": "Pet Care"
+    },
+    {
+      "CategorySlug": "hrana-pesti-si-testoase",
+      "MapMainSlug": "pet-shop",
+      "best_match": "Pet Care"
+    },
+    {
+      "CategorySlug": "hrana-pisici",
+      "MapMainSlug": "pet-shop",
+      "best_match": "Pet Care"
+    },
+    {
+      "CategorySlug": "hrana-umeda",
+      "MapMainSlug": "petshop",
+      "best_match": "Pet Care"
+    },
+    {
+      "CategorySlug": "hrana-uscata",
+      "MapMainSlug": "petshop",
+      "best_match": "Pet Care"
+    },
+    {
+      "CategorySlug": "iaurt",
+      "MapMainSlug": "lactate-branzeturi-si-oua",
+      "best_match": "Dairy"
+    },
+    {
+      "CategorySlug": "iaurt",
+      "MapMainSlug": "lapte-vegetal",
+      "best_match": "Dairy"
+    },
+    {
+      "CategorySlug": "iaurt-cu-aroma",
+      "MapMainSlug": "lactate-branzeturi-si-oua",
+      "best_match": "Dairy"
+    },
+    {
+      "CategorySlug": "iaurt-cu-fructe",
+      "MapMainSlug": "lactate-branzeturi-si-oua",
+      "best_match": "Dairy"
+    },
+    {
+      "CategorySlug": "iaurt-cu-fructe",
+      "MapMainSlug": "lapte-vegetal",
+      "best_match": "Dairy"
+    },
+    {
+      "CategorySlug": "iaurt-de-baut",
+      "MapMainSlug": "lactate-branzeturi-si-oua",
+      "best_match": "Dairy"
+    },
+    {
+      "CategorySlug": "iaurt-de-baut",
+      "MapMainSlug": "lapte-vegetal",
+      "best_match": "Dairy"
+    },
+    {
+      "CategorySlug": "iaurt-sana-si-chefir",
+      "MapMainSlug": "lactate-branzeturi-si-oua",
+      "best_match": "Dairy"
+    },
+    {
+      "CategorySlug": "iaurt-sana-si-smantana",
+      "MapMainSlug": "lactate-si-oua",
+      "best_match": "Dairy"
+    },
+    {
+      "CategorySlug": "iaurt-vegan-si-bio",
+      "MapMainSlug": "lactate-branzeturi-si-oua",
+      "best_match": "Dairy"
+    },
+    {
+      "CategorySlug": "ice-tea",
+      "MapMainSlug": "apa-bauturi-non-alcoolice",
+      "best_match": "Non-Alcoholic Beverages"
+    },
+    {
+      "CategorySlug": "ice-tea",
+      "MapMainSlug": "bauturi-nealcoolice",
+      "best_match": "Non-Alcoholic Beverages"
+    },
+    {
+      "CategorySlug": "ice-tea",
+      "MapMainSlug": "bauturi-non-alcoolice",
+      "best_match": "Non-Alcoholic Beverages"
+    },
+    {
+      "CategorySlug": "icre",
+      "MapMainSlug": "lactate-branzeturi-si-oua",
+      "best_match": "Dairy"
+    },
+    {
+      "CategorySlug": "icre",
+      "MapMainSlug": "macelarie-si-peste",
+      "best_match": "Meat"
+    },
+    {
+      "CategorySlug": "igiena-intima",
+      "MapMainSlug": "ingrijire-personala",
+      "best_match": "Personal Care & Cosmetics"
+    },
+    {
+      "CategorySlug": "igiena-orala",
+      "MapMainSlug": "ingrijire-personala",
+      "best_match": "Personal Care & Cosmetics"
+    },
+    {
+      "CategorySlug": "igiena-sexuala",
+      "MapMainSlug": "igiena-si-sanatate",
+      "best_match": "Health & Wellness"
+    },
+    {
+      "CategorySlug": "igiena-sexuala",
+      "MapMainSlug": "ingrijire-personala",
+      "best_match": "Personal Care & Cosmetics"
+    },
+    {
+      "CategorySlug": "iluminat",
+      "MapMainSlug": "casa-si-bricolaj",
+      "best_match": "Home & DIY"
+    },
+    {
+      "CategorySlug": "imbracaminte-si-intretinere",
+      "MapMainSlug": "ingrijire-personala",
+      "best_match": "Fashion & Apparel"
+    },
+    {
+      "CategorySlug": "inalbitor-rufe-si-apret",
+      "MapMainSlug": "curatenie-si-intretinere",
+      "best_match": "Household & Cleaning"
+    },
+    {
+      "CategorySlug": "incontinenta",
+      "MapMainSlug": "igiena-si-sanatate",
+      "best_match": "Personal Care & Cosmetics"
+    },
+    {
+      "CategorySlug": "inghetata",
+      "MapMainSlug": "produse-congelate",
+      "best_match": "Frozen Foods"
+    },
+    {
+      "CategorySlug": "inghetata-la-cutie",
+      "MapMainSlug": "produse-congelate",
+      "best_match": "Frozen Foods"
+    },
+    {
+      "CategorySlug": "inghetata-pe-bat-si-cornet",
+      "MapMainSlug": "produse-congelate",
+      "best_match": "Frozen Foods"
+    },
+    {
+      "CategorySlug": "inghetata-si-deserturi",
+      "MapMainSlug": "produse-congelate",
+      "best_match": "Frozen Foods"
+    },
+    {
+      "CategorySlug": "ingrediente-patiserie",
+      "MapMainSlug": "bacanie",
+      "best_match": "Pantry & Prepared Foods"
+    },
+    {
+      "CategorySlug": "ingrijire-buze",
+      "MapMainSlug": "cosmetice-si-ingrijire-dama",
+      "best_match": "Personal Care & Cosmetics"
+    },
+    {
+      "CategorySlug": "ingrijire-corp",
+      "MapMainSlug": "epilare-si-barbierit",
+      "best_match": "Personal Care & Cosmetics"
+    },
+    {
+      "CategorySlug": "ingrijire-corp",
+      "MapMainSlug": "ingrijire-personala",
+      "best_match": "Personal Care & Cosmetics"
+    },
+    {
+      "CategorySlug": "ingrijire-corporala",
+      "MapMainSlug": "cosmetice-si-ingrijire-dama",
+      "best_match": "Personal Care & Cosmetics"
+    },
+    {
+      "CategorySlug": "ingrijire-fata-si-corp",
+      "MapMainSlug": "cosmetice-barbati",
+      "best_match": "Personal Care & Cosmetics"
+    },
+    {
+      "CategorySlug": "ingrijire-ochi",
+      "MapMainSlug": "cosmetice-si-ingrijire-dama",
+      "best_match": "Personal Care & Cosmetics"
+    },
+    {
+      "CategorySlug": "ingrijire-par",
+      "MapMainSlug": "ingrijire-personala",
+      "best_match": "Personal Care & Cosmetics"
+    },
+    {
+      "CategorySlug": "ingrijire-si-igiena-bebe",
+      "MapMainSlug": "epilare-si-barbierit",
+      "best_match": "Baby & Child Care"
+    },
+    {
+      "CategorySlug": "ingrijire-si-igiena-bebe",
+      "MapMainSlug": "produse-pentru-bebelusi",
+      "best_match": "Baby & Child Care"
+    },
+    {
+      "CategorySlug": "ingrijire-ten",
+      "MapMainSlug": "cosmetice-si-ingrijire-dama",
+      "best_match": "Personal Care & Cosmetics"
+    },
+    {
+      "CategorySlug": "ingrijire-ten",
+      "MapMainSlug": "epilare-si-barbierit",
+      "best_match": "Personal Care & Cosmetics"
+    },
+    {
+      "CategorySlug": "ingrijire-ten",
+      "MapMainSlug": "ingrijire-personala",
+      "best_match": "Personal Care & Cosmetics"
+    },
+    {
+      "CategorySlug": "insecticide",
+      "MapMainSlug": "curatenie-si-intretinere-casa",
+      "best_match": "Household & Cleaning"
+    },
+    {
+      "CategorySlug": "insecticide",
+      "MapMainSlug": "ingrijire-personala",
+      "best_match": "Personal Care & Cosmetics"
+    },
+    {
+      "CategorySlug": "instalatii",
+      "MapMainSlug": "casa-si-bricolaj",
+      "best_match": "Home & DIY"
+    },
+    {
+      "CategorySlug": "intretinere-bucatarie",
+      "MapMainSlug": "curatenie-si-intretinere-casa",
+      "best_match": "Kitchen & Dining"
+    },
+    {
+      "CategorySlug": "intretinere-bucatarie",
+      "MapMainSlug": "ingrijire-personala",
+      "best_match": "Personal Care & Cosmetics"
+    },
+    {
+      "CategorySlug": "intretinere-incaltaminte",
+      "MapMainSlug": "curatenie-si-intretinere",
+      "best_match": "Household & Cleaning"
+    },
+    {
+      "CategorySlug": "intretinere-mobila",
+      "MapMainSlug": "curatenie-si-intretinere",
+      "best_match": "Home & DIY"
+    },
+    {
+      "CategorySlug": "intretinere-rufe",
+      "MapMainSlug": "curatenie-si-intretinere-casa",
+      "best_match": "Household & Cleaning"
+    },
+    {
+      "CategorySlug": "invatam-si-ne-jucam",
+      "MapMainSlug": "carti-si-papetarie",
+      "best_match": "Books & Magazines"
+    },
+    {
+      "CategorySlug": "iqos",
+      "MapMainSlug": "tutun",
+      "best_match": "Tobacco & Vaping"
+    },
+    {
+      "CategorySlug": "jambon-si-bacon",
+      "MapMainSlug": "mezeluri-si-specialitati",
+      "best_match": "Meat"
+    },
+    {
+      "CategorySlug": "jeleuri-si-caramele",
+      "MapMainSlug": "dulciuri-si-snacks",
+      "best_match": "Sweets"
+    },
+    {
+      "CategorySlug": "jocuri-de-rol",
+      "MapMainSlug": "jucarii",
+      "best_match": "Miscellaneous"
+    },
+    {
+      "CategorySlug": "jocuri-de-societate",
+      "MapMainSlug": "jucarii",
+      "best_match": "Miscellaneous"
+    },
+    {
+      "CategorySlug": "jocuri-educative",
+      "MapMainSlug": "jucarii",
+      "best_match": "Miscellaneous"
+    },
+    {
+      "CategorySlug": "jucarii",
+      "MapMainSlug": "produse-non-alimentare",
+      "best_match": "Party Supplies"
+    },
+    {
+      "CategorySlug": "la-pahar",
+      "MapMainSlug": "inghetata",
+      "best_match": "Frozen Foods"
+    },
+    {
+      "CategorySlug": "lactate-branzeturi-si-oua",
+      "MapMainSlug": "marca-proprie",
+      "best_match": "Dairy"
+    },
+    {
+      "CategorySlug": "lactate-si-oua-bio",
+      "MapMainSlug": "produse-bio",
+      "best_match": "Dietary & Special Needs"
+    },
+    {
+      "CategorySlug": "lapte",
+      "MapMainSlug": "lactate-branzeturi-si-oua",
+      "best_match": "Dairy"
+    },
+    {
+      "CategorySlug": "lapte",
+      "MapMainSlug": "lactate-si-oua",
+      "best_match": "Dairy"
+    },
+    {
+      "CategorySlug": "lapte-pasteurizat",
+      "MapMainSlug": "lactate-branzeturi-si-oua",
+      "best_match": "Dairy"
+    },
+    {
+      "CategorySlug": "lapte-pentru-cafea",
+      "MapMainSlug": "lactate-branzeturi-si-oua",
+      "best_match": "Dairy"
+    },
+    {
+      "CategorySlug": "lapte-si-iaurt-bio",
+      "MapMainSlug": "produse-bio",
+      "best_match": "Dietary & Special Needs"
+    },
+    {
+      "CategorySlug": "lapte-si-mancare-bebe",
+      "MapMainSlug": "produse-bio",
+      "best_match": "Baby & Child Care"
+    },
+    {
+      "CategorySlug": "lapte-uht",
+      "MapMainSlug": "lactate-branzeturi-si-oua",
+      "best_match": "Dairy"
+    },
+    {
+      "CategorySlug": "lapte-vegetal",
+      "MapMainSlug": "lactate-branzeturi-si-oua",
+      "best_match": "Dairy"
+    },
+    {
+      "CategorySlug": "lapte-vegetal-si-bauturi-speciale-pentru-alaptare",
+      "MapMainSlug": "mommybaby-land",
+      "best_match": "Baby & Child Care"
+    },
+    {
+      "CategorySlug": "legume",
+      "MapMainSlug": "fructe-si-legume",
+      "best_match": "Vegetables"
+    },
+    {
+      "CategorySlug": "legume",
+      "MapMainSlug": "legume-si-fructe",
+      "best_match": "Vegetables"
+    },
+    {
+      "CategorySlug": "legume",
+      "MapMainSlug": "produse-congelate",
+      "best_match": "Frozen Foods"
+    },
+    {
+      "CategorySlug": "legume-bio",
+      "MapMainSlug": "produse-bio",
+      "best_match": "Vegetables"
+    },
+    {
+      "CategorySlug": "legume-congelate",
+      "MapMainSlug": "produse-congelate",
+      "best_match": "Frozen Foods"
+    },
+    {
+      "CategorySlug": "legume-diverse",
+      "MapMainSlug": "fructe-si-legume",
+      "best_match": "Vegetables"
+    },
+    {
+      "CategorySlug": "legume-proaspete",
+      "MapMainSlug": "legume-si-fructe",
+      "best_match": "Vegetables"
+    },
+    {
+      "CategorySlug": "legume-si-fructe-congelate",
+      "MapMainSlug": "produse-congelate",
+      "best_match": "Frozen Foods"
+    },
+    {
+      "CategorySlug": "legume-simple",
+      "MapMainSlug": "produse-congelate",
+      "best_match": "Vegetables"
+    },
+    {
+      "CategorySlug": "legume-uscate",
+      "MapMainSlug": "bacanie",
+      "best_match": "Pantry & Prepared Foods"
+    },
+    {
+      "CategorySlug": "legume-uscate",
+      "MapMainSlug": "fructe-si-legume",
+      "best_match": "Vegetables"
+    },
+    {
+      "CategorySlug": "legume-uscate",
+      "MapMainSlug": "legume-si-fructe",
+      "best_match": "Vegetables"
+    },
+    {
+      "CategorySlug": "legume-uscate",
+      "MapMainSlug": "zacusca",
+      "best_match": "Pantry & Prepared Foods"
+    },
+    {
+      "CategorySlug": "leguminoase",
+      "MapMainSlug": "bacanie",
+      "best_match": "Vegetables"
+    },
+    {
+      "CategorySlug": "lichior",
+      "MapMainSlug": "bauturi-alcoolice",
+      "best_match": "Alcoholic Beverages"
+    },
+    {
+      "CategorySlug": "lipici-si-adezivi",
+      "MapMainSlug": "carti-si-papetarie",
+      "best_match": "Stationery & Office Supplies"
+    },
+    {
+      "CategorySlug": "lotiune-intima-si-servetele-umede",
+      "MapMainSlug": "ingrijire-personala",
+      "best_match": "Personal Care & Cosmetics"
+    },
+    {
+      "CategorySlug": "lotiuni-creme-si-uleiuri-de-masaj",
+      "MapMainSlug": "mommybaby-land",
+      "best_match": "Personal Care & Cosmetics"
+    },
+    {
+      "CategorySlug": "lotiuni-si-servetele",
+      "MapMainSlug": "igiena-si-sanatate",
+      "best_match": "Health & Wellness"
+    },
+    {
+      "CategorySlug": "lumanari-si-candele",
+      "MapMainSlug": "torturi-si-prajituri",
+      "best_match": "Party Supplies"
+    },
+    {
+      "CategorySlug": "lumea-noua",
+      "MapMainSlug": "vinuri",
+      "best_match": "Alcoholic Beverages"
+    },
+    {
+      "CategorySlug": "macelarie-si-peste",
+      "MapMainSlug": "marca-proprie",
+      "best_match": "Meat"
+    },
+    {
+      "CategorySlug": "macelarie-si-peste",
+      "MapMainSlug": "produse-bio",
+      "best_match": "Meat"
+    },
+    {
+      "CategorySlug": "maioneza-si-ketchup",
+      "MapMainSlug": "bacanie",
+      "best_match": "Pantry & Prepared Foods"
+    },
+    {
+      "CategorySlug": "malai",
+      "MapMainSlug": "bacanie",
+      "best_match": "Pantry & Prepared Foods"
+    },
+    {
+      "CategorySlug": "manichiura-si-pedichiura",
+      "MapMainSlug": "ingrijire-personala",
+      "best_match": "Personal Care & Cosmetics"
+    },
+    {
+      "CategorySlug": "margarina",
+      "MapMainSlug": "lactate-branzeturi-si-oua",
+      "best_match": "Dairy"
+    },
+    {
+      "CategorySlug": "margarina",
+      "MapMainSlug": "lapte-vegetal",
+      "best_match": "Dairy"
+    },
+    {
+      "CategorySlug": "markere",
+      "MapMainSlug": "carti-si-papetarie",
+      "best_match": "Stationery & Office Supplies"
+    },
+    {
+      "CategorySlug": "masini",
+      "MapMainSlug": "jucarii",
+      "best_match": "Automotive"
+    },
+    {
+      "CategorySlug": "masline-si-aperitive",
+      "MapMainSlug": "bacanie",
+      "best_match": "Snacks"
+    },
+    {
+      "CategorySlug": "masti",
+      "MapMainSlug": "cosmetice-si-ingrijire-dama",
+      "best_match": "Personal Care & Cosmetics"
+    },
+    {
+      "CategorySlug": "masti-si-tratamente",
+      "MapMainSlug": "ingrijire-personala",
+      "best_match": "Personal Care & Cosmetics"
+    },
+    {
+      "CategorySlug": "masuratori",
+      "MapMainSlug": "parkside-by-kaufland",
+      "best_match": "Kitchen & Dining"
+    },
+    {
+      "CategorySlug": "material-scolar",
+      "MapMainSlug": "carti-si-papetarie",
+      "best_match": "Stationery & Office Supplies"
+    },
+    {
+      "CategorySlug": "maternitate",
+      "MapMainSlug": "mommybaby-land",
+      "best_match": "Baby & Child Care"
+    },
+    {
+      "CategorySlug": "medicamente-fara-prescriptie",
+      "MapMainSlug": "igiena-si-sanatate",
+      "best_match": "Health & Wellness"
+    },
+    {
+      "CategorySlug": "mere-si-pere",
+      "MapMainSlug": "fructe-si-legume",
+      "best_match": "Fruits"
+    },
+    {
+      "CategorySlug": "mezeluri",
+      "MapMainSlug": "mezeluri",
+      "best_match": "Pantry & Prepared Foods"
+    },
+    {
+      "CategorySlug": "mezeluri",
+      "MapMainSlug": "mezeluri-si-specialitati",
+      "best_match": "Pantry & Prepared Foods"
+    },
+    {
+      "CategorySlug": "mezeluri-si-specialitati",
+      "MapMainSlug": "marca-proprie",
+      "best_match": "Pantry & Prepared Foods"
+    },
+    {
+      "CategorySlug": "mixuri-cu-legume",
+      "MapMainSlug": "produse-congelate",
+      "best_match": "Frozen Foods"
+    },
+    {
+      "CategorySlug": "mozzarella",
+      "MapMainSlug": "lactate-branzeturi-si-oua",
+      "best_match": "Dairy"
+    },
+    {
+      "CategorySlug": "multi-fruct",
+      "MapMainSlug": "bauturi-nealcoolice",
+      "best_match": "Non-Alcoholic Beverages"
+    },
+    {
+      "CategorySlug": "multipack",
+      "MapMainSlug": "inghetata",
+      "best_match": "Frozen Foods"
+    },
+    {
+      "CategorySlug": "multipack",
+      "MapMainSlug": "produse-congelate",
+      "best_match": "Frozen Foods"
+    },
+    {
+      "CategorySlug": "muraturi",
+      "MapMainSlug": "bacanie",
+      "best_match": "Vegetables"
+    },
+    {
+      "CategorySlug": "muraturi-si-legume-fierte",
+      "MapMainSlug": "fructe-si-legume",
+      "best_match": "Vegetables"
+    },
+    {
+      "CategorySlug": "muschi-file",
+      "MapMainSlug": "mezeluri-si-specialitati",
+      "best_match": "Meat"
+    },
+    {
+      "CategorySlug": "musli",
+      "MapMainSlug": "bacanie",
+      "best_match": "Pantry & Prepared Foods"
+    },
+    {
+      "CategorySlug": "musli",
+      "MapMainSlug": "zacusca",
+      "best_match": "Pantry & Prepared Foods"
+    },
+    {
+      "CategorySlug": "mustar",
+      "MapMainSlug": "bacanie",
+      "best_match": "Pantry & Prepared Foods"
+    },
+    {
+      "CategorySlug": "napolitane",
+      "MapMainSlug": "dulciuri",
+      "best_match": "Sweets"
+    },
+    {
+      "CategorySlug": "napolitane",
+      "MapMainSlug": "dulciuri-si-snacks",
+      "best_match": "Snacks"
+    },
+    {
+      "CategorySlug": "napolitane-biscuiti-si-prajituri",
+      "MapMainSlug": "dulciuri",
+      "best_match": "Confectionery"
+    },
+    {
+      "CategorySlug": "napolitane-si-nuga",
+      "MapMainSlug": "snack-uri-sarate",
+      "best_match": "Snacks"
+    },
+    {
+      "CategorySlug": "nectar-si-siropuri",
+      "MapMainSlug": "bauturi-non-alcoolice",
+      "best_match": "Non-Alcoholic Beverages"
+    },
+    {
+      "CategorySlug": "neo",
+      "MapMainSlug": "tutun",
+      "best_match": "Tobacco & Vaping"
+    },
+    {
+      "CategorySlug": "oale-si-capace",
+      "MapMainSlug": "articole-pentru-bucatarie",
+      "best_match": "Kitchen & Dining"
+    },
+    {
+      "CategorySlug": "ochi",
+      "MapMainSlug": "cosmetice-si-ingrijire-dama",
+      "best_match": "Personal Care & Cosmetics"
+    },
+    {
+      "CategorySlug": "odorizante",
+      "MapMainSlug": "curatenie-si-intretinere",
+      "best_match": "Household & Cleaning"
+    },
+    {
+      "CategorySlug": "odorizante-si-lumanari",
+      "MapMainSlug": "curatenie-si-intretinere-casa",
+      "best_match": "Household & Cleaning"
+    },
+    {
+      "CategorySlug": "odorizante-si-lumanari",
+      "MapMainSlug": "ingrijire-personala",
+      "best_match": "Personal Care & Cosmetics"
+    },
+    {
+      "CategorySlug": "odorizanti-auto",
+      "MapMainSlug": "auto",
+      "best_match": "Automotive"
+    },
+    {
+      "CategorySlug": "on-trend",
+      "MapMainSlug": "on-trend",
+      "best_match": "Fashion & Apparel"
+    },
+    {
+      "CategorySlug": "orez",
+      "MapMainSlug": "bacanie",
+      "best_match": "Pantry & Prepared Foods"
+    },
+    {
+      "CategorySlug": "orez",
+      "MapMainSlug": "zacusca",
+      "best_match": "International & Specialty Foods"
+    },
+    {
+      "CategorySlug": "orez-si-legume-uscate",
+      "MapMainSlug": "bacanie",
+      "best_match": "Pantry & Prepared Foods"
+    },
+    {
+      "CategorySlug": "organizare-si-arhivare",
+      "MapMainSlug": "carti-si-papetarie",
+      "best_match": "Stationery & Office Supplies"
+    },
+    {
+      "CategorySlug": "otet",
+      "MapMainSlug": "bacanie",
+      "best_match": "Pantry & Prepared Foods"
+    },
+    {
+      "CategorySlug": "otet",
+      "MapMainSlug": "zacusca",
+      "best_match": "Pantry & Prepared Foods"
+    },
+    {
+      "CategorySlug": "oua",
+      "MapMainSlug": "3ro",
+      "best_match": "Eggs"
+    },
+    {
+      "CategorySlug": "oua",
+      "MapMainSlug": "lactate-branzeturi-si-oua",
+      "best_match": "Eggs"
+    },
+    {
+      "CategorySlug": "oua",
+      "MapMainSlug": "lactate-si-oua",
+      "best_match": "Eggs"
+    },
+    {
+      "CategorySlug": "oua-si-vopsea",
+      "MapMainSlug": "paste",
+      "best_match": "Home & DIY"
+    },
+    {
+      "CategorySlug": "pahar",
+      "MapMainSlug": "produse-congelate",
+      "best_match": "Kitchen & Dining"
+    },
+    {
+      "CategorySlug": "pahare-si-cani",
+      "MapMainSlug": "articole-pentru-bucatarie",
+      "best_match": "Kitchen & Dining"
+    },
+    {
+      "CategorySlug": "paine-ambalata",
+      "MapMainSlug": "brutarie-patiserie-cofetarie",
+      "best_match": "Bakery & Pastries"
+    },
+    {
+      "CategorySlug": "paine-si-chifle",
+      "MapMainSlug": "brutaria-noastra",
+      "best_match": "Bakery & Pastries"
+    },
+    {
+      "CategorySlug": "paine-si-chifle",
+      "MapMainSlug": "brutarie-si-patiserie",
+      "best_match": "Bakery & Pastries"
+    },
+    {
+      "CategorySlug": "paine-si-specialitati",
+      "MapMainSlug": "brutarie-si-patiserie",
+      "best_match": "Bakery & Pastries"
+    },
+    {
+      "CategorySlug": "palinca-tuica-si-bauturi-traditionale",
+      "MapMainSlug": "bauturi-alcoolice",
+      "best_match": "Alcoholic Beverages"
+    },
+    {
+      "CategorySlug": "papetarie",
+      "MapMainSlug": "produse-non-alimentare",
+      "best_match": "Stationery & Office Supplies"
+    },
+    {
+      "CategorySlug": "papusi-si-accesorii",
+      "MapMainSlug": "jucarii",
+      "best_match": "Baby & Child Care"
+    },
+    {
+      "CategorySlug": "parafarmacie",
+      "MapMainSlug": "ingrijire-personala",
+      "best_match": "Personal Care & Cosmetics"
+    },
+    {
+      "CategorySlug": "parfumuri",
+      "MapMainSlug": "cosmetice-si-ingrijire-dama",
+      "best_match": "Personal Care & Cosmetics"
+    },
+    {
+      "CategorySlug": "parfumuri",
+      "MapMainSlug": "ingrijire-personala",
+      "best_match": "Personal Care & Cosmetics"
+    },
+    {
+      "CategorySlug": "parizer",
+      "MapMainSlug": "mezeluri-si-specialitati",
+      "best_match": "Meat"
+    },
+    {
+      "CategorySlug": "parizer-si-pate",
+      "MapMainSlug": "mezeluri",
+      "best_match": "Meat"
+    },
+    {
+      "CategorySlug": "party",
+      "MapMainSlug": "produse-non-alimentare",
+      "best_match": "Party Supplies"
+    },
+    {
+      "CategorySlug": "pasare",
+      "MapMainSlug": "bere-si-gratar",
+      "best_match": "Meat"
+    },
+    {
+      "CategorySlug": "pasta-de-dinti",
+      "MapMainSlug": "igiena-si-sanatate",
+      "best_match": "Personal Care & Cosmetics"
+    },
+    {
+      "CategorySlug": "pasta-de-dinti",
+      "MapMainSlug": "ingrijire-personala",
+      "best_match": "Personal Care & Cosmetics"
+    },
+    {
+      "CategorySlug": "pasta-de-tomate-si-sosuri",
+      "MapMainSlug": "3ro",
+      "best_match": "Pantry & Prepared Foods"
+    },
+    {
+      "CategorySlug": "pasta-de-tomate-si-sosuri",
+      "MapMainSlug": "bacanie",
+      "best_match": "Pantry & Prepared Foods"
+    },
+    {
+      "CategorySlug": "paste",
+      "MapMainSlug": "bacanie",
+      "best_match": "Pantry & Prepared Foods"
+    },
+    {
+      "CategorySlug": "paste-fainoase-si-orez",
+      "MapMainSlug": "3ro",
+      "best_match": "Pantry & Prepared Foods"
+    },
+    {
+      "CategorySlug": "paste-fainoase-si-orez",
+      "MapMainSlug": "bacanie",
+      "best_match": "Pantry & Prepared Foods"
+    },
+    {
+      "CategorySlug": "paste-tartinabile",
+      "MapMainSlug": "dulciuri-si-snacks",
+      "best_match": "Snacks"
+    },
+    {
+      "CategorySlug": "paste-tomate-si-bulion",
+      "MapMainSlug": "bacanie",
+      "best_match": "Pantry & Prepared Foods"
+    },
+    {
+      "CategorySlug": "pate",
+      "MapMainSlug": "bacanie",
+      "best_match": "Pantry & Prepared Foods"
+    },
+    {
+      "CategorySlug": "patiserie",
+      "MapMainSlug": "brutaria-noastra",
+      "best_match": "Bakery & Pastries"
+    },
+    {
+      "CategorySlug": "patiserie",
+      "MapMainSlug": "brutarie-si-patiserie",
+      "best_match": "Bakery & Pastries"
+    },
+    {
+      "CategorySlug": "patiserie-congelata",
+      "MapMainSlug": "3ro",
+      "best_match": "Frozen Foods"
+    },
+    {
+      "CategorySlug": "patiserie-proaspata",
+      "MapMainSlug": "brutarie-patiserie-cofetarie",
+      "best_match": "Bakery & Pastries"
+    },
+    {
+      "CategorySlug": "patiserie-si-deserturi",
+      "MapMainSlug": "gheata",
+      "best_match": "Frozen Foods"
+    },
+    {
+      "CategorySlug": "patiserie-si-deserturi",
+      "MapMainSlug": "produse-congelate",
+      "best_match": "Frozen Foods"
+    },
+    {
+      "CategorySlug": "pe-bat",
+      "MapMainSlug": "inghetata",
+      "best_match": "Frozen Foods"
+    },
+    {
+      "CategorySlug": "pe-bat",
+      "MapMainSlug": "produse-congelate",
+      "best_match": "Frozen Foods"
+    },
+    {
+      "CategorySlug": "pentru-ceai-si-cafea",
+      "MapMainSlug": "articole-pentru-bucatarie",
+      "best_match": "Non-Alcoholic Beverages"
+    },
+    {
+      "CategorySlug": "pentru-copii",
+      "MapMainSlug": "articole-pentru-bucatarie",
+      "best_match": "Kitchen & Dining"
+    },
+    {
+      "CategorySlug": "pentru-copii",
+      "MapMainSlug": "igiena-si-sanatate",
+      "best_match": "Health & Wellness"
+    },
+    {
+      "CategorySlug": "pentru-petreceri-si-familie",
+      "MapMainSlug": "inghetata",
+      "best_match": "Party Supplies"
+    },
+    {
+      "CategorySlug": "periuta-de-dinti",
+      "MapMainSlug": "ingrijire-personala",
+      "best_match": "Personal Care & Cosmetics"
+    },
+    {
+      "CategorySlug": "periute-de-dinti",
+      "MapMainSlug": "igiena-si-sanatate",
+      "best_match": "Health & Wellness"
+    },
+    {
+      "CategorySlug": "periute-de-dinti",
+      "MapMainSlug": "ingrijire-personala",
+      "best_match": "Personal Care & Cosmetics"
+    },
+    {
+      "CategorySlug": "periute-de-dinti-electrice-si-accesorii",
+      "MapMainSlug": "igiena-si-sanatate",
+      "best_match": "Personal Care & Cosmetics"
+    },
+    {
+      "CategorySlug": "peste",
+      "MapMainSlug": "lactate-branzeturi-si-oua",
+      "best_match": "Seafood"
+    },
+    {
+      "CategorySlug": "peste",
+      "MapMainSlug": "macelarie-si-peste",
+      "best_match": "Seafood"
+    },
+    {
+      "CategorySlug": "peste",
+      "MapMainSlug": "produse-congelate",
+      "best_match": "Frozen Foods"
+    },
+    {
+      "CategorySlug": "peste-import",
+      "MapMainSlug": "macelarie-si-peste",
+      "best_match": "Seafood"
+    },
+    {
+      "CategorySlug": "peste-marinat-si-semipreparat",
+      "MapMainSlug": "macelarie-si-peste",
+      "best_match": "Seafood"
+    },
+    {
+      "CategorySlug": "peste-romania",
+      "MapMainSlug": "macelarie-si-peste",
+      "best_match": "Seafood"
+    },
+    {
+      "CategorySlug": "peste-si-fructe-de-mare",
+      "MapMainSlug": "macelarie-si-peste",
+      "best_match": "Seafood"
+    },
+    {
+      "CategorySlug": "peste-si-fructe-de-mare",
+      "MapMainSlug": "produse-congelate",
+      "best_match": "Frozen Foods"
+    },
+    {
+      "CategorySlug": "pet-shop",
+      "MapMainSlug": "marca-proprie",
+      "best_match": "Pet Care"
+    },
+    {
+      "CategorySlug": "piscoturi-si-vafe",
+      "MapMainSlug": "dulciuri-si-snacks",
+      "best_match": "Snacks"
+    },
+    {
+      "CategorySlug": "piure",
+      "MapMainSlug": "produse-pentru-bebelusi",
+      "best_match": "Baby & Child Care"
+    },
+    {
+      "CategorySlug": "pizza",
+      "MapMainSlug": "produse-congelate",
+      "best_match": "Frozen Foods"
+    },
+    {
+      "CategorySlug": "pizza-si-semipreparate-congelate",
+      "MapMainSlug": "produse-congelate",
+      "best_match": "Frozen Foods"
+    },
+    {
+      "CategorySlug": "pizza-si-tarte",
+      "MapMainSlug": "produse-congelate",
+      "best_match": "Frozen Foods"
+    },
+    {
+      "CategorySlug": "plante-aromatice",
+      "MapMainSlug": "fructe-si-legume",
+      "best_match": "Vegetables"
+    },
+    {
+      "CategorySlug": "pliculete-cu-nicotina",
+      "MapMainSlug": "tutun",
+      "best_match": "Tobacco & Vaping"
+    },
+    {
+      "CategorySlug": "plusuri",
+      "MapMainSlug": "jucarii",
+      "best_match": "Miscellaneous"
+    },
+    {
+      "CategorySlug": "popcorn",
+      "MapMainSlug": "snack-uri-sarate",
+      "best_match": "Snacks"
+    },
+    {
+      "CategorySlug": "popcorn-pufuleti-si-covrigei",
+      "MapMainSlug": "snacks",
+      "best_match": "Snacks"
+    },
+    {
+      "CategorySlug": "porc",
+      "MapMainSlug": "bere-si-gratar",
+      "best_match": "Meat"
+    },
+    {
+      "CategorySlug": "porc",
+      "MapMainSlug": "fructe-de-mare",
+      "best_match": "Meat"
+    },
+    {
+      "CategorySlug": "porc",
+      "MapMainSlug": "lactate-branzeturi-si-oua",
+      "best_match": "Dairy"
+    },
+    {
+      "CategorySlug": "porc",
+      "MapMainSlug": "macelarie-si-peste",
+      "best_match": "Meat"
+    },
+    {
+      "CategorySlug": "porc-si-vita",
+      "MapMainSlug": "macelarie-si-peste",
+      "best_match": "Meat"
+    },
+    {
+      "CategorySlug": "portocale",
+      "MapMainSlug": "bauturi-nealcoolice",
+      "best_match": "Fruits"
+    },
+    {
+      "CategorySlug": "povesti",
+      "MapMainSlug": "carti-si-papetarie",
+      "best_match": "Books & Magazines"
+    },
+    {
+      "CategorySlug": "praf-de-copt-drojdie-si-bicarbonat",
+      "MapMainSlug": "bacanie",
+      "best_match": "Pantry & Prepared Foods"
+    },
+    {
+      "CategorySlug": "praf-de-coptdrojdie-si-bicarbonat",
+      "MapMainSlug": "bacanie",
+      "best_match": "Pantry & Prepared Foods"
+    },
+    {
+      "CategorySlug": "praf-de-coptdrojdie-si-bicarbonat",
+      "MapMainSlug": "zacusca",
+      "best_match": "Pantry & Prepared Foods"
+    },
+    {
+      "CategorySlug": "prajituri-si-foietaj",
+      "MapMainSlug": "produse-congelate",
+      "best_match": "Frozen Foods"
+    },
+    {
+      "CategorySlug": "prajituri-si-rulade",
+      "MapMainSlug": "dulciuri",
+      "best_match": "Sweets"
+    },
+    {
+      "CategorySlug": "prajituri-si-torturi",
+      "MapMainSlug": "brutarie-patiserie-cofetarie",
+      "best_match": "Bakery & Pastries"
+    },
+    {
+      "CategorySlug": "praline-si-bomboane",
+      "MapMainSlug": "dulciuri",
+      "best_match": "Sweets"
+    },
+    {
+      "CategorySlug": "praline-si-bomboane",
+      "MapMainSlug": "dulciuri-si-snacks",
+      "best_match": "Snacks"
+    },
+    {
+      "CategorySlug": "praline-si-bomboane-ciocolata",
+      "MapMainSlug": "torturi-si-prajituri",
+      "best_match": "Confectionery"
+    },
+    {
+      "CategorySlug": "prim-ajutor-si-dezinfectant",
+      "MapMainSlug": "igiena-si-sanatate",
+      "best_match": "Health & Wellness"
+    },
+    {
+      "CategorySlug": "produse-afumate",
+      "MapMainSlug": "macelarie-si-peste",
+      "best_match": "Meat"
+    },
+    {
+      "CategorySlug": "produse-asiatice",
+      "MapMainSlug": "specific-international",
+      "best_match": "International & Specialty Foods"
+    },
+    {
+      "CategorySlug": "produse-bio-si-dietetice",
+      "MapMainSlug": "dietetice",
+      "best_match": "Dietary & Special Needs"
+    },
+    {
+      "CategorySlug": "produse-congelate",
+      "MapMainSlug": "marca-proprie",
+      "best_match": "Frozen Foods"
+    },
+    {
+      "CategorySlug": "produse-cu-proteine",
+      "MapMainSlug": "lactate-branzeturi-si-oua",
+      "best_match": "Dairy"
+    },
+    {
+      "CategorySlug": "produse-de-curatenie",
+      "MapMainSlug": "casa-gradina-si-auto",
+      "best_match": "Household & Cleaning"
+    },
+    {
+      "CategorySlug": "produse-de-ingrijire-a-pielii",
+      "MapMainSlug": "mommybaby-land",
+      "best_match": "Personal Care & Cosmetics"
+    },
+    {
+      "CategorySlug": "produse-de-patiserie",
+      "MapMainSlug": "brutarie-si-patiserie",
+      "best_match": "Bakery & Pastries"
+    },
+    {
+      "CategorySlug": "produse-de-styling",
+      "MapMainSlug": "ingrijire-personala",
+      "best_match": "Personal Care & Cosmetics"
+    },
+    {
+      "CategorySlug": "produse-din-hartie",
+      "MapMainSlug": "carti-si-papetarie",
+      "best_match": "Stationery & Office Supplies"
+    },
+    {
+      "CategorySlug": "produse-din-tutun-fara-ardere",
+      "MapMainSlug": "tutun",
+      "best_match": "Tobacco & Vaping"
+    },
+    {
+      "CategorySlug": "produse-fara-gluten",
+      "MapMainSlug": "diete-speciale",
+      "best_match": "Dietary & Special Needs"
+    },
+    {
+      "CategorySlug": "produse-fara-lactoza",
+      "MapMainSlug": "diete-speciale",
+      "best_match": "Dietary & Special Needs"
+    },
+    {
+      "CategorySlug": "produse-fara-zahar",
+      "MapMainSlug": "diete-speciale",
+      "best_match": "Dietary & Special Needs"
+    },
+    {
+      "CategorySlug": "produse-ingrijire-animale-de-companie",
+      "MapMainSlug": "pet-shop",
+      "best_match": "Pet Care"
+    },
+    {
+      "CategorySlug": "produse-ingrijire-copii",
+      "MapMainSlug": "cosmetice-si-ingrijire-dama",
+      "best_match": "Baby & Child Care"
+    },
+    {
+      "CategorySlug": "produse-instant",
+      "MapMainSlug": "bacanie",
+      "best_match": "Snacks"
+    },
+    {
+      "CategorySlug": "produse-internationale",
+      "MapMainSlug": "bacanie",
+      "best_match": "International & Specialty Foods"
+    },
+    {
+      "CategorySlug": "produse-libaneze",
+      "MapMainSlug": "specific-international",
+      "best_match": "International & Specialty Foods"
+    },
+    {
+      "CategorySlug": "produse-make-up",
+      "MapMainSlug": "ingrijire-personala",
+      "best_match": "Personal Care & Cosmetics"
+    },
+    {
+      "CategorySlug": "produse-mexicane",
+      "MapMainSlug": "specific-international",
+      "best_match": "International & Specialty Foods"
+    },
+    {
+      "CategorySlug": "produse-non-alimentare",
+      "MapMainSlug": "marca-proprie",
+      "best_match": "Miscellaneous"
+    },
+    {
+      "CategorySlug": "produse-parafarmacie",
+      "MapMainSlug": "ingrijire-personala",
+      "best_match": "Health & Wellness"
+    },
+    {
+      "CategorySlug": "produse-pentru-copii",
+      "MapMainSlug": "dulciuri-si-snacks",
+      "best_match": "Sweets"
+    },
+    {
+      "CategorySlug": "produse-pentru-copii",
+      "MapMainSlug": "lactate-branzeturi-si-oua",
+      "best_match": "Dairy"
+    },
+    {
+      "CategorySlug": "produse-pentru-corp",
+      "MapMainSlug": "ingrijire-personala",
+      "best_match": "Personal Care & Cosmetics"
+    },
+    {
+      "CategorySlug": "produse-pentru-epilat",
+      "MapMainSlug": "igiena-si-sanatate",
+      "best_match": "Health & Wellness"
+    },
+    {
+      "CategorySlug": "produse-pentru-ingrijirea-tenului",
+      "MapMainSlug": "mommybaby-land",
+      "best_match": "Baby & Child Care"
+    },
+    {
+      "CategorySlug": "produse-pentru-petrecere",
+      "MapMainSlug": "produse-non-alimentare",
+      "best_match": "Party Supplies"
+    },
+    {
+      "CategorySlug": "produse-semipreparate",
+      "MapMainSlug": "semipreparate-si-ready-to-eat",
+      "best_match": "Restaurant & Ready-to-Eat"
+    },
+    {
+      "CategorySlug": "produse-sezon",
+      "MapMainSlug": "ingrijire-personala",
+      "best_match": "Personal Care & Cosmetics"
+    },
+    {
+      "CategorySlug": "produse-sezoniere",
+      "MapMainSlug": "produse-non-alimentare",
+      "best_match": "Party Supplies"
+    },
+    {
+      "CategorySlug": "produse-styling",
+      "MapMainSlug": "cosmetice-si-ingrijire-dama",
+      "best_match": "Personal Care & Cosmetics"
+    },
+    {
+      "CategorySlug": "produse-uz-general",
+      "MapMainSlug": "casa-gradina-si-auto",
+      "best_match": "Home & DIY"
+    },
+    {
+      "CategorySlug": "produse-uz-general",
+      "MapMainSlug": "curatenie-si-intretinere-casa",
+      "best_match": "Household & Cleaning"
+    },
+    {
+      "CategorySlug": "produse-vegetale",
+      "MapMainSlug": "alternative-vegetale",
+      "best_match": "Vegetables"
+    },
+    {
+      "CategorySlug": "produse-vegetale",
+      "MapMainSlug": "diete-speciale",
+      "best_match": "Dietary & Special Needs"
+    },
+    {
+      "CategorySlug": "produse-vegetale",
+      "MapMainSlug": "lactate-branzeturi-si-oua",
+      "best_match": "Dairy"
+    },
+    {
+      "CategorySlug": "prosoape-de-bucatarie",
+      "MapMainSlug": "curatenie-si-intretinere-casa",
+      "best_match": "Household & Cleaning"
+    },
+    {
+      "CategorySlug": "prosoape-de-bucatarie",
+      "MapMainSlug": "ingrijire-personala",
+      "best_match": "Personal Care & Cosmetics"
+    },
+    {
+      "CategorySlug": "prosoape-de-hartie",
+      "MapMainSlug": "bere-si-gratar",
+      "best_match": "Alcoholic Beverages"
+    },
+    {
+      "CategorySlug": "prosoape-hartie",
+      "MapMainSlug": "curatenie-si-intretinere",
+      "best_match": "Household & Cleaning"
+    },
+    {
+      "CategorySlug": "protectie-solara",
+      "MapMainSlug": "cosmetice-si-ingrijire-dama",
+      "best_match": "Personal Care & Cosmetics"
+    },
+    {
+      "CategorySlug": "protectie-solara",
+      "MapMainSlug": "ingrijire-personala",
+      "best_match": "Personal Care & Cosmetics"
+    },
+    {
+      "CategorySlug": "pui",
+      "MapMainSlug": "lactate-branzeturi-si-oua",
+      "best_match": "Meat"
+    },
+    {
+      "CategorySlug": "pui",
+      "MapMainSlug": "macelarie-si-peste",
+      "best_match": "Meat"
+    },
+    {
+      "CategorySlug": "pui-intreg-si-piese",
+      "MapMainSlug": "macelarie-si-peste",
+      "best_match": "Meat"
+    },
+    {
+      "CategorySlug": "pui-premium-si-preparate",
+      "MapMainSlug": "macelarie-si-peste",
+      "best_match": "Meat"
+    },
+    {
+      "CategorySlug": "pui-si-curcan",
+      "MapMainSlug": "macelarie-si-peste",
+      "best_match": "Meat"
+    },
+    {
+      "CategorySlug": "puzzle",
+      "MapMainSlug": "jucarii",
+      "best_match": "Miscellaneous"
+    },
+    {
+      "CategorySlug": "radacinoase",
+      "MapMainSlug": "fructe-si-legume",
+      "best_match": "Vegetables"
+    },
+    {
+      "CategorySlug": "ready-to-cook",
+      "MapMainSlug": "dulciuri-si-snacks",
+      "best_match": "Snacks"
+    },
+    {
+      "CategorySlug": "ready-to-cook",
+      "MapMainSlug": "mancare-gatita",
+      "best_match": "Pantry & Prepared Foods"
+    },
+    {
+      "CategorySlug": "ready-to-eat",
+      "MapMainSlug": "mancare-gatita",
+      "best_match": "Restaurant & Ready-to-Eat"
+    },
+    {
+      "CategorySlug": "ready-to-eat",
+      "MapMainSlug": "ready-to-eat",
+      "best_match": "Restaurant & Ready-to-Eat"
+    },
+    {
+      "CategorySlug": "ready-to-eat",
+      "MapMainSlug": "semipreparate-si-ready-to-eat",
+      "best_match": "Restaurant & Ready-to-Eat"
+    },
+    {
+      "CategorySlug": "republica-moldova",
+      "MapMainSlug": "vinuri",
+      "best_match": "Alcoholic Beverages"
+    },
+    {
+      "CategorySlug": "rom",
+      "MapMainSlug": "bauturi-alcoolice",
+      "best_match": "Alcoholic Beverages"
+    },
+    {
+      "CategorySlug": "rosii-si-castraveti",
+      "MapMainSlug": "fructe-si-legume",
+      "best_match": "Fruits"
+    },
+    {
+      "CategorySlug": "rosu-romania",
+      "MapMainSlug": "vinuri",
+      "best_match": "Alcoholic Beverages"
+    },
+    {
+      "CategorySlug": "roze-romania",
+      "MapMainSlug": "vinuri",
+      "best_match": "Alcoholic Beverages"
+    },
+    {
+      "CategorySlug": "saci-menajeri",
+      "MapMainSlug": "curatenie-si-intretinere",
+      "best_match": "Household & Cleaning"
+    },
+    {
+      "CategorySlug": "saci-menajeri",
+      "MapMainSlug": "curatenie-si-intretinere-casa",
+      "best_match": "Household & Cleaning"
+    },
+    {
+      "CategorySlug": "saci-menajeri",
+      "MapMainSlug": "ingrijire-personala",
+      "best_match": "Personal Care & Cosmetics"
+    },
+    {
+      "CategorySlug": "salam",
+      "MapMainSlug": "mezeluri-si-specialitati",
+      "best_match": "Meat"
+    },
+    {
+      "CategorySlug": "salam-crud-uscat",
+      "MapMainSlug": "mezeluri",
+      "best_match": "Meat"
+    },
+    {
+      "CategorySlug": "salam-fiert-afumat",
+      "MapMainSlug": "mezeluri",
+      "best_match": "Meat"
+    },
+    {
+      "CategorySlug": "salam-si-carnati",
+      "MapMainSlug": "3ro",
+      "best_match": "Meat"
+    },
+    {
+      "CategorySlug": "salate",
+      "MapMainSlug": "fructe-si-legume",
+      "best_match": "Vegetables"
+    },
+    {
+      "CategorySlug": "salate",
+      "MapMainSlug": "legume-si-fructe",
+      "best_match": "Vegetables"
+    },
+    {
+      "CategorySlug": "sampanie",
+      "MapMainSlug": "vinuri",
+      "best_match": "Alcoholic Beverages"
+    },
+    {
+      "CategorySlug": "sampoane-si-geluri-de-dus",
+      "MapMainSlug": "cosmetice-barbati",
+      "best_match": "Personal Care & Cosmetics"
+    },
+    {
+      "CategorySlug": "sampon",
+      "MapMainSlug": "ingrijire-personala",
+      "best_match": "Personal Care & Cosmetics"
+    },
+    {
+      "CategorySlug": "sampon-si-balsam",
+      "MapMainSlug": "cosmetice-si-ingrijire-dama",
+      "best_match": "Personal Care & Cosmetics"
+    },
+    {
+      "CategorySlug": "sampon-si-sapun",
+      "MapMainSlug": "alte-produse",
+      "best_match": "Personal Care & Cosmetics"
+    },
+    {
+      "CategorySlug": "sampon-si-sapun",
+      "MapMainSlug": "produse-pentru-bebelusi",
+      "best_match": "Baby & Child Care"
+    },
+    {
+      "CategorySlug": "sana",
+      "MapMainSlug": "lactate-branzeturi-si-oua",
+      "best_match": "Dairy"
+    },
+    {
+      "CategorySlug": "sana",
+      "MapMainSlug": "lapte-vegetal",
+      "best_match": "Dairy"
+    },
+    {
+      "CategorySlug": "sana-kefir-si-lapte-batut",
+      "MapMainSlug": "lactate-branzeturi-si-oua",
+      "best_match": "Dairy"
+    },
+    {
+      "CategorySlug": "sapun",
+      "MapMainSlug": "igiena-si-sanatate",
+      "best_match": "Personal Care & Cosmetics"
+    },
+    {
+      "CategorySlug": "sapunuri",
+      "MapMainSlug": "ingrijire-personala",
+      "best_match": "Personal Care & Cosmetics"
+    },
+    {
+      "CategorySlug": "sare-si-piper",
+      "MapMainSlug": "bacanie",
+      "best_match": "Pantry & Prepared Foods"
+    },
+    {
+      "CategorySlug": "scaune-si-umbrele",
+      "MapMainSlug": "bere-si-gratar",
+      "best_match": "Garden & Outdoor"
+    },
+    {
+      "CategorySlug": "scule-electrice",
+      "MapMainSlug": "parkside-by-kaufland",
+      "best_match": "Home & DIY"
+    },
+    {
+      "CategorySlug": "scutece",
+      "MapMainSlug": "produse-pentru-bebelusi",
+      "best_match": "Baby & Child Care"
+    },
+    {
+      "CategorySlug": "scutece",
+      "MapMainSlug": "univers-bebe",
+      "best_match": "Baby & Child Care"
+    },
+    {
+      "CategorySlug": "scutece-adulti",
+      "MapMainSlug": "ingrijire-personala",
+      "best_match": "Personal Care & Cosmetics"
+    },
+    {
+      "CategorySlug": "scutece-si-servetele-umede",
+      "MapMainSlug": "mommybaby-land",
+      "best_match": "Baby & Child Care"
+    },
+    {
+      "CategorySlug": "seminte-arahide-si-fructe-uscate",
+      "MapMainSlug": "snacks",
+      "best_match": "Snacks"
+    },
+    {
+      "CategorySlug": "seminte-si-alune",
+      "MapMainSlug": "snack-uri-sarate",
+      "best_match": "Snacks"
+    },
+    {
+      "CategorySlug": "semipreparate",
+      "MapMainSlug": "produse-congelate",
+      "best_match": "Frozen Foods"
+    },
+    {
+      "CategorySlug": "semipreparate",
+      "MapMainSlug": "semipreparate-si-ready-to-eat",
+      "best_match": "Pantry & Prepared Foods"
+    },
+    {
+      "CategorySlug": "semipreparate-si-ready-to-eat",
+      "MapMainSlug": "marca-proprie",
+      "best_match": "Restaurant & Ready-to-Eat"
+    },
+    {
+      "CategorySlug": "servetele-umede",
+      "MapMainSlug": "alte-produse",
+      "best_match": "Household & Cleaning"
+    },
+    {
+      "CategorySlug": "servetele-umede",
+      "MapMainSlug": "produse-pentru-bebelusi",
+      "best_match": "Baby & Child Care"
+    },
+    {
+      "CategorySlug": "servetele-uscate-si-umede",
+      "MapMainSlug": "curatenie-si-intretinere-casa",
+      "best_match": "Household & Cleaning"
+    },
+    {
+      "CategorySlug": "seturi",
+      "MapMainSlug": "carti-si-papetarie",
+      "best_match": "Books & Magazines"
+    },
+    {
+      "CategorySlug": "seturi-cadou",
+      "MapMainSlug": "ingrijire-personala",
+      "best_match": "Personal Care & Cosmetics"
+    },
+    {
+      "CategorySlug": "seturi-de-constructii",
+      "MapMainSlug": "jucarii",
+      "best_match": "Arts & Crafts"
+    },
+    {
+      "CategorySlug": "sezon-bbq",
+      "MapMainSlug": "sezon-bbq",
+      "best_match": "Garden & Outdoor"
+    },
+    {
+      "CategorySlug": "sezon-gradina",
+      "MapMainSlug": "sezon-gradina",
+      "best_match": "Garden & Outdoor"
+    },
+    {
+      "CategorySlug": "sezon-vara",
+      "MapMainSlug": "sezon-vara",
+      "best_match": "Garden & Outdoor"
+    },
+    {
+      "CategorySlug": "siguranta-si-securitate-auto",
+      "MapMainSlug": "auto",
+      "best_match": "Automotive"
+    },
+    {
+      "CategorySlug": "siropuri",
+      "MapMainSlug": "bauturi-non-alcoolice",
+      "best_match": "Non-Alcoholic Beverages"
+    },
+    {
+      "CategorySlug": "siropuri-si-nectar",
+      "MapMainSlug": "bauturi-non-alcoolice",
+      "best_match": "Non-Alcoholic Beverages"
+    },
+    {
+      "CategorySlug": "smantana",
+      "MapMainSlug": "lactate-branzeturi-si-oua",
+      "best_match": "Dairy"
+    },
+    {
+      "CategorySlug": "smantana",
+      "MapMainSlug": "lapte-vegetal",
+      "best_match": "Dairy"
+    },
+    {
+      "CategorySlug": "smantana-pentru-gatit",
+      "MapMainSlug": "lactate-branzeturi-si-oua",
+      "best_match": "Dairy"
+    },
+    {
+      "CategorySlug": "smantana-si-frisca",
+      "MapMainSlug": "lactate-branzeturi-si-oua",
+      "best_match": "Dairy"
+    },
+    {
+      "CategorySlug": "snack-uri-sarate",
+      "MapMainSlug": "marca-proprie",
+      "best_match": "Snacks"
+    },
+    {
+      "CategorySlug": "snacks",
+      "MapMainSlug": "drinkssnacks",
+      "best_match": "Snacks"
+    },
+    {
+      "CategorySlug": "snacks",
+      "MapMainSlug": "dulciuri-si-snacks",
+      "best_match": "Snacks"
+    },
+    {
+      "CategorySlug": "snacks-uri-si-recompense",
+      "MapMainSlug": "petshop",
+      "best_match": "Pet Care"
+    },
+    {
+      "CategorySlug": "solutii-anticalcar",
+      "MapMainSlug": "curatenie-si-intretinere",
+      "best_match": "Household & Cleaning"
+    },
+    {
+      "CategorySlug": "solutii-bucatarie",
+      "MapMainSlug": "curatenie-si-intretinere",
+      "best_match": "Household & Cleaning"
+    },
+    {
+      "CategorySlug": "solutii-curatare",
+      "MapMainSlug": "curatenie-si-intretinere-casa",
+      "best_match": "Household & Cleaning"
+    },
+    {
+      "CategorySlug": "solutii-curatare",
+      "MapMainSlug": "ingrijire-personala",
+      "best_match": "Personal Care & Cosmetics"
+    },
+    {
+      "CategorySlug": "solutii-curatare-exterior",
+      "MapMainSlug": "auto",
+      "best_match": "Automotive"
+    },
+    {
+      "CategorySlug": "solutii-curatare-interior",
+      "MapMainSlug": "auto",
+      "best_match": "Automotive"
+    },
+    {
+      "CategorySlug": "solutii-curatat-covoare",
+      "MapMainSlug": "curatenie-si-intretinere",
+      "best_match": "Household & Cleaning"
+    },
+    {
+      "CategorySlug": "solutii-curatat-podele",
+      "MapMainSlug": "curatenie-si-intretinere",
+      "best_match": "Household & Cleaning"
+    },
+    {
+      "CategorySlug": "solutii-de-scos-pete-si-inalbitori",
+      "MapMainSlug": "curatenie-si-intretinere-casa",
+      "best_match": "Household & Cleaning"
+    },
+    {
+      "CategorySlug": "solutii-de-scos-pete-si-inalbitori",
+      "MapMainSlug": "ingrijire-personala",
+      "best_match": "Personal Care & Cosmetics"
+    },
+    {
+      "CategorySlug": "solutii-geamuri",
+      "MapMainSlug": "curatenie-si-intretinere",
+      "best_match": "Household & Cleaning"
+    },
+    {
+      "CategorySlug": "solutii-intretinere-rufe",
+      "MapMainSlug": "curatenie-si-intretinere",
+      "best_match": "Household & Cleaning"
+    },
+    {
+      "CategorySlug": "solutii-specializate-baie",
+      "MapMainSlug": "curatenie-si-intretinere",
+      "best_match": "Household & Cleaning"
+    },
+    {
+      "CategorySlug": "solutii-specializate-bucatarie",
+      "MapMainSlug": "curatenie-si-intretinere",
+      "best_match": "Household & Cleaning"
+    },
+    {
+      "CategorySlug": "solutii-suprafete-baie",
+      "MapMainSlug": "curatenie-si-intretinere",
+      "best_match": "Household & Cleaning"
+    },
+    {
+      "CategorySlug": "sosuri",
+      "MapMainSlug": "3ro",
+      "best_match": "Pantry & Prepared Foods"
+    },
+    {
+      "CategorySlug": "sosuri",
+      "MapMainSlug": "bacanie",
+      "best_match": "Pantry & Prepared Foods"
+    },
+    {
+      "CategorySlug": "sosuri",
+      "MapMainSlug": "zacusca",
+      "best_match": "Pantry & Prepared Foods"
+    },
+    {
+      "CategorySlug": "spaghete-si-tagliatelle",
+      "MapMainSlug": "bacanie",
+      "best_match": "Pantry & Prepared Foods"
+    },
+    {
+      "CategorySlug": "spaghete-si-tagliatelle",
+      "MapMainSlug": "zacusca",
+      "best_match": "Pantry & Prepared Foods"
+    },
+    {
+      "CategorySlug": "specialitati",
+      "MapMainSlug": "lactate-branzeturi-si-oua",
+      "best_match": "Dairy"
+    },
+    {
+      "CategorySlug": "specialitati",
+      "MapMainSlug": "mezeluri-si-specialitati",
+      "best_match": "Meat"
+    },
+    {
+      "CategorySlug": "specialitati-branzeturi",
+      "MapMainSlug": "lactate-branzeturi-si-oua",
+      "best_match": "Dairy"
+    },
+    {
+      "CategorySlug": "specialitati-branzeturi",
+      "MapMainSlug": "lapte-vegetal",
+      "best_match": "Dairy"
+    },
+    {
+      "CategorySlug": "specialitati-carne-proaspata",
+      "MapMainSlug": "macelarie-si-peste",
+      "best_match": "Meat"
+    },
+    {
+      "CategorySlug": "specialitati-panificatie",
+      "MapMainSlug": "brutarie-si-patiserie",
+      "best_match": "Bakery & Pastries"
+    },
+    {
+      "CategorySlug": "specialitati-porc",
+      "MapMainSlug": "mezeluri",
+      "best_match": "Meat"
+    },
+    {
+      "CategorySlug": "specialitatii-pasare",
+      "MapMainSlug": "mezeluri",
+      "best_match": "Meat"
+    },
+    {
+      "CategorySlug": "spumant-rose",
+      "MapMainSlug": "vinuri",
+      "best_match": "Alcoholic Beverages"
+    },
+    {
+      "CategorySlug": "stilouri-si-pixuri",
+      "MapMainSlug": "carti-si-papetarie",
+      "best_match": "Stationery & Office Supplies"
+    },
+    {
+      "CategorySlug": "stimulente-si-jucarii-sexuale",
+      "MapMainSlug": "sex-shop",
+      "best_match": "Health & Wellness"
+    },
+    {
+      "CategorySlug": "sucuri-carbogazoase",
+      "MapMainSlug": "3ro",
+      "best_match": "Non-Alcoholic Beverages"
+    },
+    {
+      "CategorySlug": "sucuri-carbogazoase",
+      "MapMainSlug": "bauturi-non-alcoolice",
+      "best_match": "Non-Alcoholic Beverages"
+    },
+    {
+      "CategorySlug": "sucuri-cu-aroma-de-fructe",
+      "MapMainSlug": "bauturi-nealcoolice",
+      "best_match": "Non-Alcoholic Beverages"
+    },
+    {
+      "CategorySlug": "sucuri-naturale",
+      "MapMainSlug": "apa-bauturi-non-alcoolice",
+      "best_match": "Non-Alcoholic Beverages"
+    },
+    {
+      "CategorySlug": "sucuri-naturale",
+      "MapMainSlug": "bauturi-non-alcoolice",
+      "best_match": "Non-Alcoholic Beverages"
+    },
+    {
+      "CategorySlug": "sucuri-necarbogazoase",
+      "MapMainSlug": "3ro",
+      "best_match": "Non-Alcoholic Beverages"
+    },
+    {
+      "CategorySlug": "sucuri-necarbogazoase",
+      "MapMainSlug": "bauturi-non-alcoolice",
+      "best_match": "Non-Alcoholic Beverages"
+    },
+    {
+      "CategorySlug": "sunca",
+      "MapMainSlug": "mezeluri",
+      "best_match": "Meat"
+    },
+    {
+      "CategorySlug": "sunca-si-alte-specialitati",
+      "MapMainSlug": "3ro",
+      "best_match": "Meat"
+    },
+    {
+      "CategorySlug": "sunca-si-kaizer",
+      "MapMainSlug": "mezeluri-si-specialitati",
+      "best_match": "Meat"
+    },
+    {
+      "CategorySlug": "supe-si-piureuri",
+      "MapMainSlug": "bacanie",
+      "best_match": "Pantry & Prepared Foods"
+    },
+    {
+      "CategorySlug": "suplimente-alimentare",
+      "MapMainSlug": "igiena-si-sanatate",
+      "best_match": "Health & Wellness"
+    },
+    {
+      "CategorySlug": "suplimente-si-vitamine",
+      "MapMainSlug": "mommybaby-land",
+      "best_match": "Health & Wellness"
+    },
+    {
+      "CategorySlug": "sushi",
+      "MapMainSlug": "macelarie-si-peste",
+      "best_match": "Seafood"
+    },
+    {
+      "CategorySlug": "suzete",
+      "MapMainSlug": "mommybaby-land",
+      "best_match": "Baby & Child Care"
+    },
+    {
+      "CategorySlug": "tablete",
+      "MapMainSlug": "dulciuri",
+      "best_match": "Sweets"
+    },
+    {
+      "CategorySlug": "tablete",
+      "MapMainSlug": "dulciuri-si-snacks",
+      "best_match": "Snacks"
+    },
+    {
+      "CategorySlug": "tacamuri",
+      "MapMainSlug": "articole-pentru-bucatarie",
+      "best_match": "Kitchen & Dining"
+    },
+    {
+      "CategorySlug": "telemea",
+      "MapMainSlug": "lactate-branzeturi-si-oua",
+      "best_match": "Dairy"
+    },
+    {
+      "CategorySlug": "telemea-de-capra",
+      "MapMainSlug": "lactate-branzeturi-si-oua",
+      "best_match": "Dairy"
+    },
+    {
+      "CategorySlug": "telemea-de-capra",
+      "MapMainSlug": "lapte-vegetal",
+      "best_match": "Dairy"
+    },
+    {
+      "CategorySlug": "telemea-de-oaie",
+      "MapMainSlug": "lactate-branzeturi-si-oua",
+      "best_match": "Dairy"
+    },
+    {
+      "CategorySlug": "telemea-de-oaie",
+      "MapMainSlug": "lapte-vegetal",
+      "best_match": "Dairy"
+    },
+    {
+      "CategorySlug": "telemea-de-vaca",
+      "MapMainSlug": "lactate-branzeturi-si-oua",
+      "best_match": "Dairy"
+    },
+    {
+      "CategorySlug": "telemea-de-vaca",
+      "MapMainSlug": "lapte-vegetal",
+      "best_match": "Dairy"
+    },
+    {
+      "CategorySlug": "ten",
+      "MapMainSlug": "cosmetice-si-ingrijire-dama",
+      "best_match": "Personal Care & Cosmetics"
+    },
+    {
+      "CategorySlug": "tequila",
+      "MapMainSlug": "bauturi-alcoolice",
+      "best_match": "Alcoholic Beverages"
+    },
+    {
+      "CategorySlug": "tigai",
+      "MapMainSlug": "articole-pentru-bucatarie",
+      "best_match": "Kitchen & Dining"
+    },
+    {
+      "CategorySlug": "tigari",
+      "MapMainSlug": "tutun",
+      "best_match": "Tobacco & Vaping"
+    },
+    {
+      "CategorySlug": "tigari-de-foi-tutun-pentru-rulat",
+      "MapMainSlug": "tutun",
+      "best_match": "Tobacco & Vaping"
+    },
+    {
+      "CategorySlug": "tigari-electronice",
+      "MapMainSlug": "tutun",
+      "best_match": "Tobacco & Vaping"
+    },
+    {
+      "CategorySlug": "tonice-si-lime",
+      "MapMainSlug": "bauturi-nealcoolice",
+      "best_match": "Non-Alcoholic Beverages"
+    },
+    {
+      "CategorySlug": "tratamente-si-ata-dentara",
+      "MapMainSlug": "igiena-si-sanatate",
+      "best_match": "Health & Wellness"
+    },
+    {
+      "CategorySlug": "tutun",
+      "MapMainSlug": "tutun",
+      "best_match": "Tobacco & Vaping"
+    },
+    {
+      "CategorySlug": "tutun-pentru-rulat",
+      "MapMainSlug": "tutun",
+      "best_match": "Tobacco & Vaping"
+    },
+    {
+      "CategorySlug": "ulei",
+      "MapMainSlug": "bacanie",
+      "best_match": "Kitchen & Dining"
+    },
+    {
+      "CategorySlug": "ulei",
+      "MapMainSlug": "zacusca",
+      "best_match": "Kitchen & Dining"
+    },
+    {
+      "CategorySlug": "ulei-si-otet",
+      "MapMainSlug": "bacanie",
+      "best_match": "Kitchen & Dining"
+    },
+    {
+      "CategorySlug": "uleiuri-auto",
+      "MapMainSlug": "auto",
+      "best_match": "Automotive"
+    },
+    {
+      "CategorySlug": "unelte",
+      "MapMainSlug": "parkside-by-kaufland",
+      "best_match": "Home & DIY"
+    },
+    {
+      "CategorySlug": "unelte-si-scule",
+      "MapMainSlug": "casa-si-bricolaj",
+      "best_match": "Home & DIY"
+    },
+    {
+      "CategorySlug": "unt",
+      "MapMainSlug": "lactate-branzeturi-si-oua",
+      "best_match": "Pantry & Prepared Foods"
+    },
+    {
+      "CategorySlug": "unt",
+      "MapMainSlug": "lapte-vegetal",
+      "best_match": "Non-Alcoholic Beverages"
+    },
+    {
+      "CategorySlug": "unt-si-margarina",
+      "MapMainSlug": "lactate-branzeturi-si-oua",
+      "best_match": "Pantry & Prepared Foods"
+    },
+    {
+      "CategorySlug": "unt-si-margarina",
+      "MapMainSlug": "lactate-si-oua",
+      "best_match": "Pantry & Prepared Foods"
+    },
+    {
+      "CategorySlug": "ustensile-pentru-gatit-si-accesorii",
+      "MapMainSlug": "articole-pentru-bucatarie",
+      "best_match": "Kitchen & Dining"
+    },
+    {
+      "CategorySlug": "vafa-si-cornet",
+      "MapMainSlug": "inghetata",
+      "best_match": "Frozen Foods"
+    },
+    {
+      "CategorySlug": "vafa-si-cornet",
+      "MapMainSlug": "produse-congelate",
+      "best_match": "Frozen Foods"
+    },
+    {
+      "CategorySlug": "vape-uri",
+      "MapMainSlug": "tutun",
+      "best_match": "Tobacco & Vaping"
+    },
+    {
+      "CategorySlug": "varza-si-conopida",
+      "MapMainSlug": "fructe-si-legume",
+      "best_match": "Vegetables"
+    },
+    {
+      "CategorySlug": "vegetale",
+      "MapMainSlug": "diete-speciale",
+      "best_match": "Vegetables"
+    },
+    {
+      "CategorySlug": "verdeata",
+      "MapMainSlug": "fructe-si-legume",
+      "best_match": "Vegetables"
+    },
+    {
+      "CategorySlug": "verdeturi",
+      "MapMainSlug": "legume-si-fructe",
+      "best_match": "Vegetables"
+    },
+    {
+      "CategorySlug": "vesela-unica-folosinta",
+      "MapMainSlug": "articole-pentru-bucatarie",
+      "best_match": "Kitchen & Dining"
+    },
+    {
+      "CategorySlug": "vin",
+      "MapMainSlug": "3ro",
+      "best_match": "Alcoholic Beverages"
+    },
+    {
+      "CategorySlug": "vin-alb",
+      "MapMainSlug": "bauturi-alcoolice",
+      "best_match": "Alcoholic Beverages"
+    },
+    {
+      "CategorySlug": "vin-rose",
+      "MapMainSlug": "bauturi-alcoolice",
+      "best_match": "Alcoholic Beverages"
+    },
+    {
+      "CategorySlug": "vin-rose",
+      "MapMainSlug": "bauturi-la-rece",
+      "best_match": "Alcoholic Beverages"
+    },
+    {
+      "CategorySlug": "vin-rosu",
+      "MapMainSlug": "bauturi-alcoolice",
+      "best_match": "Alcoholic Beverages"
+    },
+    {
+      "CategorySlug": "vin-roze",
+      "MapMainSlug": "bauturi-alcoolice",
+      "best_match": "Alcoholic Beverages"
+    },
+    {
+      "CategorySlug": "vin-spumant",
+      "MapMainSlug": "vinuri",
+      "best_match": "Alcoholic Beverages"
+    },
+    {
+      "CategorySlug": "vin-spumant-si-sampanie",
+      "MapMainSlug": "bauturi-alcoolice",
+      "best_match": "Alcoholic Beverages"
+    },
+    {
+      "CategorySlug": "vinuri",
+      "MapMainSlug": "bauturi-alcoolice-si-energizante",
+      "best_match": "Alcoholic Beverages"
+    },
+    {
+      "CategorySlug": "vinuri",
+      "MapMainSlug": "bere-si-gratar",
+      "best_match": "Alcoholic Beverages"
+    },
+    {
+      "CategorySlug": "vita",
+      "MapMainSlug": "fructe-de-mare",
+      "best_match": "Seafood"
+    },
+    {
+      "CategorySlug": "vita",
+      "MapMainSlug": "lactate-branzeturi-si-oua",
+      "best_match": "Dairy"
+    },
+    {
+      "CategorySlug": "vita",
+      "MapMainSlug": "macelarie-si-peste",
+      "best_match": "Meat"
+    },
+    {
+      "CategorySlug": "vitamine-si-suplimente",
+      "MapMainSlug": "ingrijire-personala",
+      "best_match": "Personal Care & Cosmetics"
+    },
+    {
+      "CategorySlug": "vodka",
+      "MapMainSlug": "bauturi-alcoolice",
+      "best_match": "Alcoholic Beverages"
+    },
+    {
+      "CategorySlug": "vopsea-de-par",
+      "MapMainSlug": "ingrijire-personala",
+      "best_match": "Personal Care & Cosmetics"
+    },
+    {
+      "CategorySlug": "vopsea-par",
+      "MapMainSlug": "cosmetice-si-ingrijire-dama",
+      "best_match": "Personal Care & Cosmetics"
+    },
+    {
+      "CategorySlug": "whisky",
+      "MapMainSlug": "bauturi-alcoolice",
+      "best_match": "Alcoholic Beverages"
+    },
+    {
+      "CategorySlug": "zacusca",
+      "MapMainSlug": "bacanie",
+      "best_match": "Pantry & Prepared Foods"
+    },
+    {
+      "CategorySlug": "zahar",
+      "MapMainSlug": "bacanie",
+      "best_match": "Pantry & Prepared Foods"
+    },
+    {
+      "CategorySlug": "zahar",
+      "MapMainSlug": "zacusca",
+      "best_match": "Pantry & Prepared Foods"
+    },
+    {
+      "CategorySlug": "zahar-faina-si-malai",
+      "MapMainSlug": "bacanie",
+      "best_match": "Pantry & Prepared Foods"
+    },
+    {
+      "CategorySlug": "zahar-si-indulcitor",
+      "MapMainSlug": "bacanie",
+      "best_match": "Pantry & Prepared Foods"
+    },
+    {
+      "CategorySlug": "zahar-si-produse-de-patiserie",
+      "MapMainSlug": "bacanie",
+      "best_match": "Bakery & Pastries"
+    },
+    {
+      "CategorySlug": "zahar-vanilat-si-esente",
+      "MapMainSlug": "bacanie",
+      "best_match": "Pantry & Prepared Foods"
+    },
+    {
+      "CategorySlug": "zahar-vanilat-si-esente",
+      "MapMainSlug": "zacusca",
+      "best_match": "Confectionery"
+    }
+  ]
+}

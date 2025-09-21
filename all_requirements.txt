@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy
+scikit-learn
+rapidfuzz
+faiss-cpu
+sentence-transformers
+requests
+tqdm
+unsloth
+torch
+regex
